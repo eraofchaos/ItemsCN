@@ -2,7 +2,7 @@
 title: "Item - Materials - 精美礦石"
 permalink: /mat_19/
 excerpt: "魔法门之英雄无敌：战争纪元  精美礦石"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "mat_19.md"
 toc: false

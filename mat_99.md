@@ -2,7 +2,7 @@
 title: "Item - Materials - 閃耀硫磺"
 permalink: /mat_99/
 excerpt: "魔法门之英雄无敌：战争纪元  閃耀硫磺"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "mat_99.md"
 toc: false

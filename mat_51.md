@@ -2,7 +2,7 @@
 title: "Item - Materials - 絕世寶石"
 permalink: /mat_51/
 excerpt: "魔法门之英雄无敌：战争纪元  絕世寶石"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "mat_51.md"
 toc: false

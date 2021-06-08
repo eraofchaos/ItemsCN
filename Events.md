@@ -2,7 +2,7 @@
 title: "Item - Event related"
 permalink: /Events/
 excerpt: "Event related in Era of Chaos"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "Event related.md"
 toc: false
@@ -201,56 +201,58 @@ classes: wide
   | 187 | ![育碧幣](/images/t/i_10032.png) | [育碧幣](/cn/Items/con_546/){: .btn .btn--era4} | Event related | 限時活動道具，活動期間可兌換各種獎勵！(此道具僅限於此次活動遊戲內兌換獎勵使用) |
   | 188 | ![胡蘿蔔熱十字包](/images/t/i_690020.png) | [胡蘿蔔熱十字包](/cn/Items/con_2119/){: .btn .btn--era4} | Event related | 從混沌之蛋中獲得的復活節食物，口味好像不是很主流。可是……這種東西為什麼會在混沌之蛋裡呢？ |
   | 189 |  | [英](/cn/Items/con_859/){: .btn .btn--era5} | Event related | 來自異域世界的神祕符號，相傳集齊後可以開啟豐厚的寶藏！ |
-  | 190 | ![菜蔬拼盤](/images/t/i_8150012.png) | [菜蔬拼盤](/cn/Items/con_1162/){: .btn .btn--era4} | Event related | 一個大拼盤，裡面有各種各樣的菜蔬 |
-  | 191 | ![薑餅人](/images/t/i_690018.png) | [薑餅人](/cn/Items/con_1092/){: .btn .btn--era4} | Event related | 歡樂聖誕活動道具，可用於活動中換取聖誕禮物。 |
-  | 192 | ![藍玫瑰](/images/t/i_3059.png) | [藍玫瑰](/cn/Items/con_801/){: .btn .btn--era4} | Event related |  |
-  | 193 | ![藍色糖果](/images/t/i_10037.png) | [藍色糖果](/cn/Items/con_551/){: .btn .btn--era4} | Event related | 包裝精美的藍色糖果，可在跨年折上折活動中使用。 |
-  | 194 | ![虛空祕銀](/images/t/i_3075.png) | [虛空祕銀](/cn/Items/con_817/){: .btn .btn--era4} | Event related | 從天外降落的神祕隕石，蘊藏著強大魔能的稀有金屬，是鍛造頂級魔法裝備的必要材料。可在相關活動種兌換稀有道具 |
-  | 195 | ![蛋黃粽](/images/t/i_10029.png) | [蛋黃粽](/cn/Items/con_543/){: .btn .btn--era4} | Event related | 美味可口的蛋黃粽，可在折上折活動中使用。 |
-  | 196 | ![要塞圖鑒符文](/images/t/i_tool_tujian14.png) | [要塞圖鑒符文](/cn/Items/con_818/){: .btn .btn--era3} | Event related | 要塞圖鑒突破的重要材料 |
-  | 197 | ![詭變魔僕英魂](/images/t/juexing_501.png) | [詭變魔僕英魂](/cn/Items/con_2043/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於小惡魔覺醒 |
-  | 198 | ![豆沙粽](/images/t/i_10031.png) | [豆沙粽](/cn/Items/con_545/){: .btn .btn--era4} | Event related | 美味可口的豆沙粽，可在折上折活動中使用。 |
-  | 199 | ![豺狼勇士英魂](/images/t/juexing_801.jpg) | [豺狼勇士英魂](/cn/Items/con_2066/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於豺狼人覺醒 |
-  | 200 | ![貴州糟辣魚火鍋](/images/t/i_81521131.png) | [貴州糟辣魚火鍋](/cn/Items/con_1202/){: .btn .btn--era3} | Event related | 雲南貴州地區更偏好用醃制的方法製作辣味，配合姜蒜封壇醃制的糟辣椒，搭配鯉魚製成火鍋，深受人民喜愛。不過這一鍋，吃起來還和生的一樣。 |
-  | 201 | ![貴州臭酸火鍋](/images/t/i_81532231.png) | [貴州臭酸火鍋](/cn/Items/con_1247/){: .btn .btn--era3} | Event related | 黔南州布依族百姓流傳下來的，由多種菜湊在一起燉煮後儲存發酵，形成的具有奇特濃郁氣味的食物酸，製成了這種火鍋湯底。不過這一鍋，吃起來還和生的一樣。 |
-  | 202 | ![貴州酸湯魚火鍋](/images/t/i_81533331.png) | [貴州酸湯魚火鍋](/cn/Items/con_1253/){: .btn .btn--era3} | Event related | 用野生番茄、紅辣椒和白酒姜蒜一同發酵半個月製成紅酸湯，再將活魚去除內臟下入酸湯中煮制，鮮嫩爽口。海南的傳統小吃演變來的火鍋種類，採用民間釀酒時發酵產生的酸醋作為湯料，下入多種海鮮和蔬菜，微辣酸甜，十分具有特色。 |
-  | 203 | ![辣湯鍋底](/images/t/i_8150002.png) | [辣湯鍋底](/cn/Items/con_1159/){: .btn .btn--era4} | Event related | 麻辣為主，多味並存，講究調味，善於變化，注重用湯，崇尚自然 |
-  | 204 | ![週年慶紀念幣](/images/t/i_10005.png) | [週年慶紀念幣](/cn/Items/con_514/){: .btn .btn--era4} | Event related | 週年慶活動專屬道具，可用於活動獎品的兌換 |
-  | 205 |  | [進階精華](/cn/Items/con_696/){: .btn .btn--era3} | Event related | 純粹的魔力精華，可以提升兵團的品質 |
-  | 206 | ![遊俠徽章](/images/t/i_3053.png) | [遊俠徽章](/cn/Items/con_795/){: .btn .btn--era4} | Event related | 傳奇遊俠的信物，可以在相關活動中兌換壁壘陣營的各種物資！ |
-  | 207 | ![遠古守衛英魂](/images/t/juexing_205.png) | [遠古守衛英魂](/cn/Items/con_2023/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於枯木衛士覺醒 |
-  | 208 | ![邪惡印記](/images/t/i_3051.png) | [邪惡印記](/cn/Items/con_793/){: .btn .btn--era4} | Event related | 蘊含邪惡之力的印記，可以在相關活動中兌換墓園陣營的各種物資！ |
-  | 209 | ![重慶火鍋](/images/t/i_81521111.png) | [重慶火鍋](/cn/Items/con_1196/){: .btn .btn--era3} | Event related | 重慶火鍋是重慶重要的文化符號，將牛毛肚、豬黃喉、鴨腸等放入麻辣的鍋底中涮煮，入口鮮香爽脆。不過這一鍋，吃起來還和生的一樣。 |
-  | 210 | ![金人英魂](/images/t/juexing_603.jpg) | [金人英魂](/cn/Items/con_2052/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於鐵人覺醒 |
-  | 211 | ![金鑰匙](/images/t/i_tool_3041.png) | [金鑰匙](/cn/Items/con_783/){: .btn .btn--era5} | Event related | 進行招募的憑證，使用此道具可以獲得一次免費高階招募兵團的機會 |
-  | 212 | ![金龍英魂](/images/t/juexing_207.png) | [金龍英魂](/cn/Items/con_2025/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於綠龍覺醒 |
-  | 213 | ![銀翼衛士英魂](/images/t/juexing_204.png) | [銀翼衛士英魂](/cn/Items/con_2022/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於銀翼衛士覺醒 |
-  | 214 | ![銀鑰匙](/images/t/i_tool_3001.png) | [銀鑰匙](/cn/Items/con_693/){: .btn .btn--era3} | Event related | 進行招募的憑證，使用此道具可以獲得一次免費道具招募兵團的機會 |
-  | 215 | ![鋼鐵火鍋殼的龍龜](/images/t/i_81521231.png) | [鋼鐵火鍋殼的龍龜](/cn/Items/con_1208/){: .btn .btn--era3} | Event related | “朋友你好啊，我是鋼鐵龍龜，你看我的殼是塑膠的。” |
-  | 216 | ![鍊金符石](/images/t/i_3056.png) | [鍊金符石](/cn/Items/con_798/){: .btn .btn--era4} | Event related | 高等魔法學者間交易的通貨，可以在相關活動中兌換塔樓陣營的各種物資！ |
-  | 217 | ![鐵鎬](/images/t/i_10025.png) | [鐵鎬](/cn/Items/con_539/){: .btn .btn--era4} | Event related | 可用來參與挖礦活動，但材質較為脆弱，挖掘 1 次就會斷掉。 |
-  | 218 | ![閃光珍珠](/images/t/i_10013.png) | [閃光珍珠](/cn/Items/con_527/){: .btn .btn--era4} | Event related | 用於兌換稀有兵團的魂石 |
-  | 219 | ![閃電風暴英魂](/images/t/juexing_902.jpg) | [閃電風暴英魂](/cn/Items/con_2074/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用于雷元素覺醒 |
-  | 220 | ![防禦圖鑒符文](/images/t/i_tool_tujian2.png) | [防禦圖鑒符文](/cn/Items/con_739/){: .btn .btn--era3} | Event related | 防禦圖鑒突破的重要材料 |
-  | 221 | ![防禦天賦藥劑](/images/t/i_3045.png) | [防禦天賦藥劑](/cn/Items/con_787/){: .btn .btn--era4} | Event related | 可用於強化防禦兵團天賦屬性，並升級兵種天賦技能 |
-  | 222 |  | [雄](/cn/Items/con_860/){: .btn .btn--era5} | Event related | 來自異域世界的神祕符號，相傳集齊後可以開啟豐厚的寶藏！ |
-  | 223 | ![雪橇玩具](/images/t/i_690015.png) | [雪橇玩具](/cn/Items/con_1089/){: .btn .btn--era4} | Event related | 聖誕輪盤活動道具，活動期間可用於換取獎勵。 |
-  | 224 | ![雲南臘排骨火鍋](/images/t/i_81531221.png) | [雲南臘排骨火鍋](/cn/Items/con_1235/){: .btn .btn--era3} | Event related | 豬排骨以大量鹽醃制半個月以上，緊實而鹹鮮十足；排骨塊在火鍋的雞湯底中微微翻騰，鮮味在內部悄悄滋長。不過這一鍋，吃起來還和生的一樣。 |
-  | 225 | ![雲南酸湯豬腳](/images/t/i_81531111.png) | [雲南酸湯豬腳](/cn/Items/con_1226/){: .btn .btn--era3} | Event related | 用秘方發酵出具備原始酸味的鮮美酸湯，加以膠原蛋白豐富、口感細膩的豬腳燉煮，實乃人間美味。不過這一鍋，吃起來還和生的一樣。 |
-  | 226 | ![雲南野生菌火鍋](/images/t/i_81512221.png) | [雲南野生菌火鍋](/cn/Items/con_1184/){: .btn .btn--era3} | Event related | 雲南複雜的自然環境孕育了豐富的食用野生菌資源，這口感醇厚的小小一個雞湯鍋之內竟然擁有近30種食用菌。不過這一鍋，吃起來還和生的一樣。 |
-  | 227 | ![雷霆之翼英魂](/images/t/juexing_405.png) | [雷霆之翼英魂](/cn/Items/con_2039/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於雷鳥覺醒 |
-  | 228 | ![雷霆使者英魂](/images/t/juexing_607.jpg) | [雷霆使者英魂](/cn/Items/con_2056/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於泰坦覺醒 |
-  | 229 | ![食人魔酋長英魂](/images/t/juexing_404.png) | [食人魔酋長英魂](/cn/Items/con_2038/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於食人魔覺醒 |
-  | 230 | ![馴鹿玩具](/images/t/i_690014.png) | [馴鹿玩具](/cn/Items/con_1088/){: .btn .btn--era4} | Event related | 聖誕輪盤活動道具，活動期間可用於換取獎勵。 |
-  | 231 | ![骨齒項鍊](/images/t/i_3054.png) | [骨齒項鍊](/cn/Items/con_796/){: .btn .btn--era4} | Event related | 強大野獸骸骨製成的項鍊，可以在相關活動中兌換據點陣營的各種物資！ |
-  | 232 | ![骷髏王英魂](/images/t/juexing_301.png) | [骷髏王英魂](/cn/Items/con_2027/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於骷髏王覺醒 |
-  | 233 | ![高階修築材料](/images/t/i_3062.png) | [高階修築材料](/cn/Items/con_804/){: .btn .btn--era4} | Event related | 斯坦德威克守城活動中修築城牆用。 |
-  | 234 | ![鬼龍英魂](/images/t/juexing_307.png) | [鬼龍英魂](/cn/Items/con_2033/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於骨龍覺醒 |
-  | 235 | ![魔化影鑽](/images/t/i_10040.png) | [魔化影鑽](/cn/Items/con_554/){: .btn .btn--era4} | Event related | 可通過【尋寶備戰】和購買獲得，用於開啟一次尋寶遊戲。 |
-  | 236 | ![魔法圖鑒符文](/images/t/i_tool_tujian5.png) | [魔法圖鑒符文](/cn/Items/con_746/){: .btn .btn--era3} | Event related | 魔法圖鑒突破的重要材料 |
-  | 237 | ![魔法天賦藥劑](/images/t/i_3048.png) | [魔法天賦藥劑](/cn/Items/con_790/){: .btn .btn--era4} | Event related | 可用於強化魔法兵團天賦屬性，並升級兵種天賦技能 |
-  | 238 | ![鮮肉粽](/images/t/i_10028.png) | [鮮肉粽](/cn/Items/con_542/){: .btn .btn--era4} | Event related | 美味可口的鮮肉粽，可在折上折活動中使用。 |
-  | 239 | ![黃色糖果](/images/t/i_10036.png) | [黃色糖果](/cn/Items/con_550/){: .btn .btn--era4} | Event related | 包裝精美的黃色糖果，可在跨年折上折活動中使用。 |
-  | 240 | ![黃金羅盤](/images/t/i_3073.png) | [黃金羅盤](/cn/Items/con_815/){: .btn .btn--era4} | Event related | 能預知未來的黃金羅盤，可以在相關活動中兌換港口陣營的各種物資！ |
-  | 241 | ![黑曜石](/images/t/i_3055.png) | [黑曜石](/cn/Items/con_797/){: .btn .btn--era4} | Event related | 地獄中獨有的奇異寶石，可以在相關活動中兌換地獄陣營的各種物資！ |
-  | 242 | ![黔東南牛癟火鍋](/images/t/i_81532221.png) | [黔東南牛癟火鍋](/cn/Items/con_1244/){: .btn .btn--era3} | Event related | 未經烹煮前有淡淡腐草味的原料，當地人也稱其為百草湯，加入各種中藥香料與牛肉牛雜烹煮後，卻會越吃越香。不過這一鍋，吃起來還和生的一樣。 |
+  | 190 |  | [英雄碎片自選禮包](/cn/Items/con_2176/){: .btn .btn--era5} | Event related | 事件 |
+  | 191 | ![菜蔬拼盤](/images/t/i_8150012.png) | [菜蔬拼盤](/cn/Items/con_1162/){: .btn .btn--era4} | Event related | 一個大拼盤，裡面有各種各樣的菜蔬 |
+  | 192 | ![薑餅人](/images/t/i_690018.png) | [薑餅人](/cn/Items/con_1092/){: .btn .btn--era4} | Event related | 歡樂聖誕活動道具，可用於活動中換取聖誕禮物。 |
+  | 193 | ![藍玫瑰](/images/t/i_3059.png) | [藍玫瑰](/cn/Items/con_801/){: .btn .btn--era4} | Event related |  |
+  | 194 | ![藍色糖果](/images/t/i_10037.png) | [藍色糖果](/cn/Items/con_551/){: .btn .btn--era4} | Event related | 包裝精美的藍色糖果，可在跨年折上折活動中使用。 |
+  | 195 | ![虛空祕銀](/images/t/i_3075.png) | [虛空祕銀](/cn/Items/con_817/){: .btn .btn--era4} | Event related | 從天外降落的神祕隕石，蘊藏著強大魔能的稀有金屬，是鍛造頂級魔法裝備的必要材料。可在相關活動種兌換稀有道具 |
+  | 196 | ![蛋黃粽](/images/t/i_10029.png) | [蛋黃粽](/cn/Items/con_543/){: .btn .btn--era4} | Event related | 美味可口的蛋黃粽，可在折上折活動中使用。 |
+  | 197 | ![要塞圖鑒符文](/images/t/i_tool_tujian14.png) | [要塞圖鑒符文](/cn/Items/con_818/){: .btn .btn--era3} | Event related | 要塞圖鑒突破的重要材料 |
+  | 198 | ![詭變魔僕英魂](/images/t/juexing_501.png) | [詭變魔僕英魂](/cn/Items/con_2043/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於小惡魔覺醒 |
+  | 199 | ![豆沙粽](/images/t/i_10031.png) | [豆沙粽](/cn/Items/con_545/){: .btn .btn--era4} | Event related | 美味可口的豆沙粽，可在折上折活動中使用。 |
+  | 200 | ![豺狼勇士英魂](/images/t/juexing_801.jpg) | [豺狼勇士英魂](/cn/Items/con_2066/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於豺狼人覺醒 |
+  | 201 | ![貴州糟辣魚火鍋](/images/t/i_81521131.png) | [貴州糟辣魚火鍋](/cn/Items/con_1202/){: .btn .btn--era3} | Event related | 雲南貴州地區更偏好用醃制的方法製作辣味，配合姜蒜封壇醃制的糟辣椒，搭配鯉魚製成火鍋，深受人民喜愛。不過這一鍋，吃起來還和生的一樣。 |
+  | 202 | ![貴州臭酸火鍋](/images/t/i_81532231.png) | [貴州臭酸火鍋](/cn/Items/con_1247/){: .btn .btn--era3} | Event related | 黔南州布依族百姓流傳下來的，由多種菜湊在一起燉煮後儲存發酵，形成的具有奇特濃郁氣味的食物酸，製成了這種火鍋湯底。不過這一鍋，吃起來還和生的一樣。 |
+  | 203 | ![貴州酸湯魚火鍋](/images/t/i_81533331.png) | [貴州酸湯魚火鍋](/cn/Items/con_1253/){: .btn .btn--era3} | Event related | 用野生番茄、紅辣椒和白酒姜蒜一同發酵半個月製成紅酸湯，再將活魚去除內臟下入酸湯中煮制，鮮嫩爽口。海南的傳統小吃演變來的火鍋種類，採用民間釀酒時發酵產生的酸醋作為湯料，下入多種海鮮和蔬菜，微辣酸甜，十分具有特色。 |
+  | 204 | ![辣湯鍋底](/images/t/i_8150002.png) | [辣湯鍋底](/cn/Items/con_1159/){: .btn .btn--era4} | Event related | 麻辣為主，多味並存，講究調味，善於變化，注重用湯，崇尚自然 |
+  | 205 | ![週年慶紀念幣](/images/t/i_10005.png) | [週年慶紀念幣](/cn/Items/con_514/){: .btn .btn--era4} | Event related | 週年慶活動專屬道具，可用於活動獎品的兌換 |
+  | 206 |  | [進階精華](/cn/Items/con_696/){: .btn .btn--era3} | Event related | 純粹的魔力精華，可以提升兵團的品質 |
+  | 207 | ![遊俠徽章](/images/t/i_3053.png) | [遊俠徽章](/cn/Items/con_795/){: .btn .btn--era4} | Event related | 傳奇遊俠的信物，可以在相關活動中兌換壁壘陣營的各種物資！ |
+  | 208 | ![遠古守衛英魂](/images/t/juexing_205.png) | [遠古守衛英魂](/cn/Items/con_2023/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於枯木衛士覺醒 |
+  | 209 | ![邪惡印記](/images/t/i_3051.png) | [邪惡印記](/cn/Items/con_793/){: .btn .btn--era4} | Event related | 蘊含邪惡之力的印記，可以在相關活動中兌換墓園陣營的各種物資！ |
+  | 210 | ![重慶火鍋](/images/t/i_81521111.png) | [重慶火鍋](/cn/Items/con_1196/){: .btn .btn--era3} | Event related | 重慶火鍋是重慶重要的文化符號，將牛毛肚、豬黃喉、鴨腸等放入麻辣的鍋底中涮煮，入口鮮香爽脆。不過這一鍋，吃起來還和生的一樣。 |
+  | 211 | ![金人英魂](/images/t/juexing_603.jpg) | [金人英魂](/cn/Items/con_2052/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於鐵人覺醒 |
+  | 212 | ![金鑰匙](/images/t/i_tool_3041.png) | [金鑰匙](/cn/Items/con_783/){: .btn .btn--era5} | Event related | 進行招募的憑證，使用此道具可以獲得一次免費高階招募兵團的機會 |
+  | 213 | ![金龍英魂](/images/t/juexing_207.png) | [金龍英魂](/cn/Items/con_2025/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於綠龍覺醒 |
+  | 214 | ![銀翼衛士英魂](/images/t/juexing_204.png) | [銀翼衛士英魂](/cn/Items/con_2022/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於銀翼衛士覺醒 |
+  | 215 | ![銀鑰匙](/images/t/i_tool_3001.png) | [銀鑰匙](/cn/Items/con_693/){: .btn .btn--era3} | Event related | 進行招募的憑證，使用此道具可以獲得一次免費道具招募兵團的機會 |
+  | 216 | ![鋼鐵火鍋殼的龍龜](/images/t/i_81521231.png) | [鋼鐵火鍋殼的龍龜](/cn/Items/con_1208/){: .btn .btn--era3} | Event related | “朋友你好啊，我是鋼鐵龍龜，你看我的殼是塑膠的。” |
+  | 217 | ![鍊金符石](/images/t/i_3056.png) | [鍊金符石](/cn/Items/con_798/){: .btn .btn--era4} | Event related | 高等魔法學者間交易的通貨，可以在相關活動中兌換塔樓陣營的各種物資！ |
+  | 218 |  | [鍍魔剪刀](/cn/Items/con_2175/){: .btn .btn--era4} | Event related | 端午節活動道具。鍍上一層神秘魔法的剪刀，可用於剪開捆綁魔法秘粽的繩子，但是使用後會銷毀。 |
+  | 219 | ![鐵鎬](/images/t/i_10025.png) | [鐵鎬](/cn/Items/con_539/){: .btn .btn--era4} | Event related | 可用來參與挖礦活動，但材質較為脆弱，挖掘 1 次就會斷掉。 |
+  | 220 | ![閃光珍珠](/images/t/i_10013.png) | [閃光珍珠](/cn/Items/con_527/){: .btn .btn--era4} | Event related | 用於兌換稀有兵團的魂石 |
+  | 221 | ![閃電風暴英魂](/images/t/juexing_902.jpg) | [閃電風暴英魂](/cn/Items/con_2074/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用于雷元素覺醒 |
+  | 222 | ![防禦圖鑒符文](/images/t/i_tool_tujian2.png) | [防禦圖鑒符文](/cn/Items/con_739/){: .btn .btn--era3} | Event related | 防禦圖鑒突破的重要材料 |
+  | 223 | ![防禦天賦藥劑](/images/t/i_3045.png) | [防禦天賦藥劑](/cn/Items/con_787/){: .btn .btn--era4} | Event related | 可用於強化防禦兵團天賦屬性，並升級兵種天賦技能 |
+  | 224 |  | [雄](/cn/Items/con_860/){: .btn .btn--era5} | Event related | 來自異域世界的神祕符號，相傳集齊後可以開啟豐厚的寶藏！ |
+  | 225 | ![雪橇玩具](/images/t/i_690015.png) | [雪橇玩具](/cn/Items/con_1089/){: .btn .btn--era4} | Event related | 聖誕輪盤活動道具，活動期間可用於換取獎勵。 |
+  | 226 | ![雲南臘排骨火鍋](/images/t/i_81531221.png) | [雲南臘排骨火鍋](/cn/Items/con_1235/){: .btn .btn--era3} | Event related | 豬排骨以大量鹽醃制半個月以上，緊實而鹹鮮十足；排骨塊在火鍋的雞湯底中微微翻騰，鮮味在內部悄悄滋長。不過這一鍋，吃起來還和生的一樣。 |
+  | 227 | ![雲南酸湯豬腳](/images/t/i_81531111.png) | [雲南酸湯豬腳](/cn/Items/con_1226/){: .btn .btn--era3} | Event related | 用秘方發酵出具備原始酸味的鮮美酸湯，加以膠原蛋白豐富、口感細膩的豬腳燉煮，實乃人間美味。不過這一鍋，吃起來還和生的一樣。 |
+  | 228 | ![雲南野生菌火鍋](/images/t/i_81512221.png) | [雲南野生菌火鍋](/cn/Items/con_1184/){: .btn .btn--era3} | Event related | 雲南複雜的自然環境孕育了豐富的食用野生菌資源，這口感醇厚的小小一個雞湯鍋之內竟然擁有近30種食用菌。不過這一鍋，吃起來還和生的一樣。 |
+  | 229 | ![雷霆之翼英魂](/images/t/juexing_405.png) | [雷霆之翼英魂](/cn/Items/con_2039/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於雷鳥覺醒 |
+  | 230 | ![雷霆使者英魂](/images/t/juexing_607.jpg) | [雷霆使者英魂](/cn/Items/con_2056/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於泰坦覺醒 |
+  | 231 | ![食人魔酋長英魂](/images/t/juexing_404.png) | [食人魔酋長英魂](/cn/Items/con_2038/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於食人魔覺醒 |
+  | 232 | ![馴鹿玩具](/images/t/i_690014.png) | [馴鹿玩具](/cn/Items/con_1088/){: .btn .btn--era4} | Event related | 聖誕輪盤活動道具，活動期間可用於換取獎勵。 |
+  | 233 | ![骨齒項鍊](/images/t/i_3054.png) | [骨齒項鍊](/cn/Items/con_796/){: .btn .btn--era4} | Event related | 強大野獸骸骨製成的項鍊，可以在相關活動中兌換據點陣營的各種物資！ |
+  | 234 | ![骷髏王英魂](/images/t/juexing_301.png) | [骷髏王英魂](/cn/Items/con_2027/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於骷髏王覺醒 |
+  | 235 | ![高階修築材料](/images/t/i_3062.png) | [高階修築材料](/cn/Items/con_804/){: .btn .btn--era4} | Event related | 斯坦德威克守城活動中修築城牆用。 |
+  | 236 | ![鬼龍英魂](/images/t/juexing_307.png) | [鬼龍英魂](/cn/Items/con_2033/){: .btn .btn--era5} | Event related | 遠古的不朽英魂，可用於骨龍覺醒 |
+  | 237 | ![魔化影鑽](/images/t/i_10040.png) | [魔化影鑽](/cn/Items/con_554/){: .btn .btn--era4} | Event related | 可通過【尋寶備戰】和購買獲得，用於開啟一次尋寶遊戲。 |
+  | 238 | ![魔法圖鑒符文](/images/t/i_tool_tujian5.png) | [魔法圖鑒符文](/cn/Items/con_746/){: .btn .btn--era3} | Event related | 魔法圖鑒突破的重要材料 |
+  | 239 | ![魔法天賦藥劑](/images/t/i_3048.png) | [魔法天賦藥劑](/cn/Items/con_790/){: .btn .btn--era4} | Event related | 可用於強化魔法兵團天賦屬性，並升級兵種天賦技能 |
+  | 240 | ![鮮肉粽](/images/t/i_10028.png) | [鮮肉粽](/cn/Items/con_542/){: .btn .btn--era4} | Event related | 美味可口的鮮肉粽，可在折上折活動中使用。 |
+  | 241 | ![黃色糖果](/images/t/i_10036.png) | [黃色糖果](/cn/Items/con_550/){: .btn .btn--era4} | Event related | 包裝精美的黃色糖果，可在跨年折上折活動中使用。 |
+  | 242 | ![黃金羅盤](/images/t/i_3073.png) | [黃金羅盤](/cn/Items/con_815/){: .btn .btn--era4} | Event related | 能預知未來的黃金羅盤，可以在相關活動中兌換港口陣營的各種物資！ |
+  | 243 | ![黑曜石](/images/t/i_3055.png) | [黑曜石](/cn/Items/con_797/){: .btn .btn--era4} | Event related | 地獄中獨有的奇異寶石，可以在相關活動中兌換地獄陣營的各種物資！ |
+  | 244 | ![黔東南牛癟火鍋](/images/t/i_81532221.png) | [黔東南牛癟火鍋](/cn/Items/con_1244/){: .btn .btn--era3} | Event related | 未經烹煮前有淡淡腐草味的原料，當地人也稱其為百草湯，加入各種中藥香料與牛肉牛雜烹煮後，卻會越吃越香。不過這一鍋，吃起來還和生的一樣。 |

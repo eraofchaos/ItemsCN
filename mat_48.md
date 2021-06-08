@@ -2,7 +2,7 @@
 title: "Item - Materials - 絕世木材"
 permalink: /mat_48/
 excerpt: "魔法门之英雄无敌：战争纪元  絕世木材"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "mat_48.md"
 toc: false

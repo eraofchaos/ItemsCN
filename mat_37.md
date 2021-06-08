@@ -2,7 +2,7 @@
 title: "Item - Materials - 非凡寶石"
 permalink: /mat_37/
 excerpt: "魔法门之英雄无敌：战争纪元  非凡寶石"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "mat_37.md"
 toc: false

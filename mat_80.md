@@ -2,7 +2,7 @@
 title: "Item - Materials - 奧祕水晶"
 permalink: /mat_80/
 excerpt: "魔法门之英雄无敌：战争纪元  奧祕水晶"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "mat_80.md"
 toc: false

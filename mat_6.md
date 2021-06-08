@@ -2,7 +2,7 @@
 title: "Item - Materials - 平凡礦石"
 permalink: /mat_6/
 excerpt: "魔法门之英雄无敌：战争纪元  平凡礦石"
-last_modified_at: 2021-06-07
+last_modified_at: 2021-06-08
 locale: cn
 ref: "mat_6.md"
 toc: false
