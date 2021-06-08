@@ -1,0 +1,63 @@
+main:
+  - title: "News"
+    url: https://eraofchaos.github.io/posts/
+  - title: "About"
+    url: https://eraofchaos.github.io/about/
+
+
+
+# documentation links
+docs:
+  - title: "Navigation"
+    children:
+    - title: "Heroes"
+      url: https://eraofchaos.github.io/heroes/
+    - title: "Units"
+      url: https://eraofchaos.github.io/units/
+    - title: "Exclusive"
+      url: https://eraofchaos.github.io/Exclusive/
+    - title: "Items"
+      url: https://eraofchaos.github.io/Items/
+    - title: "Artifacts"
+      url: https://eraofchaos.github.io/artifacts/
+    - title: "Holy Emblem"
+      url: https://eraofchaos.github.io/Emblem/
+    - title: "Alchemy Workshop"
+      url: https://eraofchaos.github.io/Alchemy Workshop/
+    - title: "Battle Formation"
+      url: https://eraofchaos.github.io/Battle Formation/
+    - title: "Backup"
+      url: https://eraofchaos.github.io/Backup/
+    - title: "Combination Bonus"
+      url: https://eraofchaos.github.io/combination/
+    - title: "Next Faction Week"
+      url: https://eraofchaos.github.io/Weekly Sign Rewards/
+    - title: "Schedule"
+      url: https://eraofchaos.github.io/Schedule/
+    - title: "Hotspot Artifacs 2021"
+      url: https://eraofchaos.github.io/Hotspot/
+    - title: "Hotspot Spells 2021"
+      url: https://eraofchaos.github.io/Hotspot/HotSpot Spell _2021/
+    - title: "Faction Altar 2021"
+      url: https://eraofchaos.github.io/FactionAltar/
+    - title: "Sphinx answers"
+      url: https://eraofchaos.github.io/sphinx/
+
+  - title: "Language"
+    children:
+      - title: "English"
+        url: https://eraofchaos.github.io/
+        isactive: 1
+      - title: "Русский"
+        url: https://eraofchaos.github.io/ru/
+      - title: "Deutsch"
+        url: https://eraofchaos.github.io/de/
+      - title: "Français"
+        url: https://eraofchaos.github.io/fr/
+      - title: "Italiano"
+        url: https://eraofchaos.github.io/it/
+      - title: "Español"
+        url: https://eraofchaos.github.io/es/
+
+
+
