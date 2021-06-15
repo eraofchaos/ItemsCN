@@ -2,7 +2,7 @@
 title: "Item - Materials - 非凡硫磺"
 permalink: /mat_36/
 excerpt: "魔法门之英雄无敌：战争纪元  非凡硫磺"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "mat_36.md"
 toc: false

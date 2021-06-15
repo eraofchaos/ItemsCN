@@ -2,7 +2,7 @@
 title: "Item - Materials - 優質寶石"
 permalink: /mat_16/
 excerpt: "魔法门之英雄无敌：战争纪元  優質寶石"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "mat_16.md"
 toc: false

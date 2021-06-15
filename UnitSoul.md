@@ -2,7 +2,7 @@
 title: "Item - Unit Soul"
 permalink: /UnitSoul/
 excerpt: "Unit Soul in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "Unit Soul.md"
 toc: false
@@ -13,51 +13,51 @@ classes: wide
   | Nr | Icon |         名字        |   Type  |   玩法詳解     |
   |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Tool_3209](/images/u/ti_tanglang.jpg) | [Tool_3209](/cn/Items/unt_207/){: .btn .btn--era6} | Unit Soul |  |
-  | 2 | ![Tool_3509](/images/u/ti_yanmo.jpg) | [Tool_3509](/cn/Items/unt_234/){: .btn .btn--era6} | Unit Soul |  |
-  | 3 | ![Tool_3809](/images/u/ti_baihu.jpg) | [Tool_3809](/cn/Items/unt_261/){: .btn .btn--era6} | Unit Soul |  |
-  | 4 | ![傀儡龍](/images/u/ti_kuileilong.jpg) | [傀儡龍](/cn/Items/unt_243/){: .btn .btn--era6} | Unit Soul | 收集 80 個靈魂碎片，可以召喚傀儡龍，同時也是傀儡龍升星進化的必備材料 |
-  | 5 | ![僧侶](/images/u/ti_senglv.jpg) | [僧侶](/cn/Items/unt_194/){: .btn .btn--era4} | Unit Soul | 收集 10 個靈魂碎片，可以召喚僧侶，僧侶是 SR 資質兵團 |
-  | 6 | ![冰元素](/images/u/ti_bingyuansu2.jpg) | [冰元素](/cn/Items/unt_264/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚冰元素，同時也是冰元素升星進化的必備材料 |
-  | 7 | ![冰魔](/images/u/ti_bingmo.jpg) | [冰魔](/cn/Items/unt_269/){: .btn .btn--era6} | Unit Soul | 收集80個靈魂碎片，可以召喚冰魔，同時也是冰魔升星進化的必備材料 |
-  | 8 | ![刺客](/images/u/ti_cishazhe.jpg) | [刺客](/cn/Items/unt_271/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚刺客，同時也是刺客升星進化的必備材料 |
-  | 9 | ![勒維亞坦](/images/u/ti_haiguai.jpg) | [勒維亞坦](/cn/Items/unt_280/){: .btn .btn--era4} | Unit Soul | 收集 80 個靈魂碎片，可以召喚勒維亞坦，同時也是勒維亞坦升星進化的必備材料 |
-  | 10 | ![半人馬首領](/images/u/ti_banrenma.jpg) | [半人馬首領](/cn/Items/unt_199/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚半人馬首領，半人馬首領是 R 資質兵團 |
-  | 11 | ![半獸人](/images/u/ti_shourentoufushou.jpg) | [半獸人](/cn/Items/unt_219/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚半獸人，半獸人是 SR 資質兵團 |
-  | 12 | ![叢林妖精](/images/u/ti_conglinyaojing.jpg) | [叢林妖精](/cn/Items/unt_270/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚叢林妖精，同時也是叢林妖精升星進化的必備材料 |
-  | 13 | ![吸血鬼](/images/u/ti_xixuegui.jpg) | [吸血鬼](/cn/Items/unt_211/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚吸血鬼，吸血鬼是 SR 資質兵團 |
-  | 14 | ![地獄三頭犬](/images/u/ti_santouquan.jpg) | [地獄三頭犬](/cn/Items/unt_228/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚地獄三頭犬，地獄三頭犬是 SR 資質兵團 |
-  | 15 | ![地獄領主](/images/u/ti_diyulingzhu.jpg) | [地獄領主](/cn/Items/unt_230/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚地獄領主，地獄領主是 SR 資質兵團 |
-  | 16 | ![地精戰士](/images/u/ti_shourenzhanshi.jpg) | [地精戰士](/cn/Items/unt_217/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚地精戰士，地精戰士是 R 資質兵團 |
-  | 17 | ![多頭龍](/images/u/ti_duotoulong.jpg) | [多頭龍](/cn/Items/unt_259/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚多頭龍，同時也是多頭龍升星進化的必備材料 |
-  | 18 | ![夢魘獸](/images/u/ti_mengyanshou.jpg) | [夢魘獸](/cn/Items/unt_233/){: .btn .btn--era4} | Unit Soul | 收集 80 個靈魂碎片，可以召喚夢魘獸，夢魘獸是 SR 資質兵團 |
-  | 19 | ![大天使](/images/u/ti_datianshi.jpg) | [大天使](/cn/Items/unt_196/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚大天使，大天使是 SSR 資質兵團 |
-  | 20 | ![大妖精](/images/u/ti_xiaoyaojing.jpg) | [大妖精](/cn/Items/unt_235/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚大妖精，同時也是大妖精升星進化的必備材料 |
-  | 21 | ![大惡魔](/images/u/ti_daemo.jpg) | [大惡魔](/cn/Items/unt_232/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚大惡魔，大惡魔是 SSR 資質兵團 |
-  | 22 | ![大法師](/images/u/ti_dafashi.jpg) | [大法師](/cn/Items/unt_238/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚大法師，同時也是大法師升星進化的必備材料 |
-  | 23 | ![娜迦蛇妖](/images/u/ti_shenv.jpg) | [娜迦蛇妖](/cn/Items/unt_240/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚娜迦蛇妖，同時也是娜迦蛇妖升星進化的必備材料 |
-  | 24 | ![審判官](/images/u/ti_shenpanguan.jpg) | [審判官](/cn/Items/unt_198/){: .btn .btn--era6} | Unit Soul | 收集80個靈魂碎片，可以召喚審判官，審判官是指揮官兵團 |
-  | 25 | ![寶藏獵人](/images/u/ti_ruigenanushou.jpg) | [寶藏獵人](/cn/Items/unt_274/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚寶藏獵人，同時也是寶藏獵人升星進化的必備材料 |
-  | 26 | ![小惡魔](/images/u/ti_xiaoemo.jpg) | [小惡魔](/cn/Items/unt_226/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚小惡魔，小惡魔是 R 資質兵團 |
-  | 27 | ![巫妖](/images/u/ti_wuyao.jpg) | [巫妖](/cn/Items/unt_212/){: .btn .btn--era4} | Unit Soul | 收集 80 個靈魂碎片，可以召喚巫妖，巫妖是 SR 資質兵團 |
-  | 28 | ![帝國弩手](/images/u/ti_nushou.jpg) | [帝國弩手](/cn/Items/unt_191/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚帝國弩手，帝國弩手是 R 資質兵團 |
-  | 29 | ![帝國槍兵](/images/u/ti_jibing.jpg) | [帝國槍兵](/cn/Items/unt_190/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚帝國槍兵，帝國槍兵是 R 資質兵團 |
-  | 30 | ![幽火元素](/images/u/ti_liehuoyuansu.jpg) | [幽火元素](/cn/Items/unt_265/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚幽火元素，同時也是幽火元素升星進化的必備材料 |
-  | 31 | ![幽靈](/images/u/ti_youling.jpg) | [幽靈](/cn/Items/unt_210/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚幽靈，幽靈是 SR 資質兵團 |
-  | 32 | ![德魯伊](/images/u/ti_deluyi.jpg) | [德魯伊](/cn/Items/unt_206/){: .btn .btn--era4} | Unit Soul | 收集 80 個靈魂碎片，可以召喚德魯伊，德魯伊是 SR 資質兵團 |
-  | 33 | ![惡狼騎士](/images/u/ti_langqibing.jpg) | [惡狼騎士](/cn/Items/unt_218/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚惡狼騎士，惡狼騎士是 R 資質兵團 |
-  | 34 | ![戰鬥矮人](/images/u/ti_airen.jpg) | [戰鬥矮人](/cn/Items/unt_200/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚戰鬥矮人，戰鬥矮人是 SR 資質兵團 |
-  | 35 | ![斯巴達戰士](/images/u/ti_sibada.jpg) | [斯巴達戰士](/cn/Items/unt_272/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚斯巴達戰士，同時也是斯巴達戰士升星進化的必備材料 |
-  | 36 | ![暗黑領主](/images/u/ti_sishen.jpg) | [暗黑領主](/cn/Items/unt_216/){: .btn .btn--era6} | Unit Soul | 收集 80 個靈魂碎片，可以召喚暗黑領主，同時也是暗黑領主升星進化的必備材料 |
-  | 37 | ![木乃伊](/images/u/ti_munaiyi.jpg) | [木乃伊](/cn/Items/unt_215/){: .btn .btn--era4} | Unit Soul | 收集 80 個靈魂碎片，可以召喚木乃伊，木乃伊是 SR 資質兵團 |
-  | 38 | ![木精靈](/images/u/ti_mujingling.jpg) | [木精靈](/cn/Items/unt_201/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚木精靈，木精靈是 SR 資質兵團 |
-  | 39 | ![枯木衛士](/images/u/ti_shuyao.jpg) | [枯木衛士](/cn/Items/unt_203/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚枯木衛士，枯木衛士是 SR 資質兵團 |
-  | 40 | ![歌革](/images/u/ti_touhuoguai.jpg) | [歌革](/cn/Items/unt_227/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚歌革，歌革是 R 資質兵團 |
-  | 41 | ![殭屍](/images/u/ti_jiangshi.jpg) | [殭屍](/cn/Items/unt_209/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚殭屍，殭屍是 R 資質兵團 |
-  | 42 | ![毒蜂草](/images/u/ti_dufengcao.jpg) | [毒蜂草](/cn/Items/unt_260/){: .btn .btn--era4} | Unit Soul | 收集 80 個靈魂碎片，可以召喚毒蜂草，同時也是毒蜂草升星進化的必備材料 |
-  | 43 | ![比蒙](/images/u/ti_bimeng.jpg) | [比蒙](/cn/Items/unt_223/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚比蒙，比蒙是 SSR 資質兵團 |
-  | 44 | ![泰坦巨人](/images/u/ti_taitan.jpg) | [泰坦巨人](/cn/Items/unt_241/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚泰坦巨人，同時也是泰坦巨人升星進化的必備材料 |
-  | 45 | ![海后](/images/u/ti_haihou.jpg) | [海后](/cn/Items/unt_279/){: .btn .btn--era6} | Unit Soul | 收集 80 個靈魂碎片，可以召喚海后，同時也是海后升星進化的必備材料 |
-  | 46 | ![海靈](/images/u/ti_haiyuansu.jpg) | [海靈](/cn/Items/unt_275/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚海靈，同時也是海靈升星進化的必備材料 |
+  | 2 | ![Tool_3809](/images/u/ti_baihu.jpg) | [Tool_3809](/cn/Items/unt_261/){: .btn .btn--era6} | Unit Soul |  |
+  | 3 | ![傀儡龍](/images/u/ti_kuileilong.jpg) | [傀儡龍](/cn/Items/unt_243/){: .btn .btn--era6} | Unit Soul | 收集 80 個靈魂碎片，可以召喚傀儡龍，同時也是傀儡龍升星進化的必備材料 |
+  | 4 | ![僧侶](/images/u/ti_senglv.jpg) | [僧侶](/cn/Items/unt_194/){: .btn .btn--era4} | Unit Soul | 收集 10 個靈魂碎片，可以召喚僧侶，僧侶是 SR 資質兵團 |
+  | 5 | ![冰元素](/images/u/ti_bingyuansu2.jpg) | [冰元素](/cn/Items/unt_264/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚冰元素，同時也是冰元素升星進化的必備材料 |
+  | 6 | ![冰魔](/images/u/ti_bingmo.jpg) | [冰魔](/cn/Items/unt_269/){: .btn .btn--era6} | Unit Soul | 收集80個靈魂碎片，可以召喚冰魔，同時也是冰魔升星進化的必備材料 |
+  | 7 | ![刺客](/images/u/ti_cishazhe.jpg) | [刺客](/cn/Items/unt_271/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚刺客，同時也是刺客升星進化的必備材料 |
+  | 8 | ![勒維亞坦](/images/u/ti_haiguai.jpg) | [勒維亞坦](/cn/Items/unt_280/){: .btn .btn--era4} | Unit Soul | 收集 80 個靈魂碎片，可以召喚勒維亞坦，同時也是勒維亞坦升星進化的必備材料 |
+  | 9 | ![半人馬首領](/images/u/ti_banrenma.jpg) | [半人馬首領](/cn/Items/unt_199/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚半人馬首領，半人馬首領是 R 資質兵團 |
+  | 10 | ![半獸人](/images/u/ti_shourentoufushou.jpg) | [半獸人](/cn/Items/unt_219/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚半獸人，半獸人是 SR 資質兵團 |
+  | 11 | ![叢林妖精](/images/u/ti_conglinyaojing.jpg) | [叢林妖精](/cn/Items/unt_270/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚叢林妖精，同時也是叢林妖精升星進化的必備材料 |
+  | 12 | ![吸血鬼](/images/u/ti_xixuegui.jpg) | [吸血鬼](/cn/Items/unt_211/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚吸血鬼，吸血鬼是 SR 資質兵團 |
+  | 13 | ![地獄三頭犬](/images/u/ti_santouquan.jpg) | [地獄三頭犬](/cn/Items/unt_228/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚地獄三頭犬，地獄三頭犬是 SR 資質兵團 |
+  | 14 | ![地獄領主](/images/u/ti_diyulingzhu.jpg) | [地獄領主](/cn/Items/unt_230/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚地獄領主，地獄領主是 SR 資質兵團 |
+  | 15 | ![地精戰士](/images/u/ti_shourenzhanshi.jpg) | [地精戰士](/cn/Items/unt_217/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚地精戰士，地精戰士是 R 資質兵團 |
+  | 16 | ![多頭龍](/images/u/ti_duotoulong.jpg) | [多頭龍](/cn/Items/unt_259/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚多頭龍，同時也是多頭龍升星進化的必備材料 |
+  | 17 | ![夢魘獸](/images/u/ti_mengyanshou.jpg) | [夢魘獸](/cn/Items/unt_233/){: .btn .btn--era4} | Unit Soul | 收集 80 個靈魂碎片，可以召喚夢魘獸，夢魘獸是 SR 資質兵團 |
+  | 18 | ![大天使](/images/u/ti_datianshi.jpg) | [大天使](/cn/Items/unt_196/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚大天使，大天使是 SSR 資質兵團 |
+  | 19 | ![大妖精](/images/u/ti_xiaoyaojing.jpg) | [大妖精](/cn/Items/unt_235/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚大妖精，同時也是大妖精升星進化的必備材料 |
+  | 20 | ![大惡魔](/images/u/ti_daemo.jpg) | [大惡魔](/cn/Items/unt_232/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚大惡魔，大惡魔是 SSR 資質兵團 |
+  | 21 | ![大法師](/images/u/ti_dafashi.jpg) | [大法師](/cn/Items/unt_238/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚大法師，同時也是大法師升星進化的必備材料 |
+  | 22 | ![娜迦蛇妖](/images/u/ti_shenv.jpg) | [娜迦蛇妖](/cn/Items/unt_240/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚娜迦蛇妖，同時也是娜迦蛇妖升星進化的必備材料 |
+  | 23 | ![審判官](/images/u/ti_shenpanguan.jpg) | [審判官](/cn/Items/unt_198/){: .btn .btn--era6} | Unit Soul | 收集80個靈魂碎片，可以召喚審判官，審判官是指揮官兵團 |
+  | 24 | ![寶藏獵人](/images/u/ti_ruigenanushou.jpg) | [寶藏獵人](/cn/Items/unt_274/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚寶藏獵人，同時也是寶藏獵人升星進化的必備材料 |
+  | 25 | ![小惡魔](/images/u/ti_xiaoemo.jpg) | [小惡魔](/cn/Items/unt_226/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚小惡魔，小惡魔是 R 資質兵團 |
+  | 26 | ![巫妖](/images/u/ti_wuyao.jpg) | [巫妖](/cn/Items/unt_212/){: .btn .btn--era4} | Unit Soul | 收集 80 個靈魂碎片，可以召喚巫妖，巫妖是 SR 資質兵團 |
+  | 27 | ![帝國弩手](/images/u/ti_nushou.jpg) | [帝國弩手](/cn/Items/unt_191/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚帝國弩手，帝國弩手是 R 資質兵團 |
+  | 28 | ![帝國槍兵](/images/u/ti_jibing.jpg) | [帝國槍兵](/cn/Items/unt_190/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚帝國槍兵，帝國槍兵是 R 資質兵團 |
+  | 29 | ![幽火元素](/images/u/ti_liehuoyuansu.jpg) | [幽火元素](/cn/Items/unt_265/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚幽火元素，同時也是幽火元素升星進化的必備材料 |
+  | 30 | ![幽靈](/images/u/ti_youling.jpg) | [幽靈](/cn/Items/unt_210/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚幽靈，幽靈是 SR 資質兵團 |
+  | 31 | ![德魯伊](/images/u/ti_deluyi.jpg) | [德魯伊](/cn/Items/unt_206/){: .btn .btn--era4} | Unit Soul | 收集 80 個靈魂碎片，可以召喚德魯伊，德魯伊是 SR 資質兵團 |
+  | 32 | ![惡狼騎士](/images/u/ti_langqibing.jpg) | [惡狼騎士](/cn/Items/unt_218/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚惡狼騎士，惡狼騎士是 R 資質兵團 |
+  | 33 | ![戰鬥矮人](/images/u/ti_airen.jpg) | [戰鬥矮人](/cn/Items/unt_200/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚戰鬥矮人，戰鬥矮人是 SR 資質兵團 |
+  | 34 | ![斯巴達戰士](/images/u/ti_sibada.jpg) | [斯巴達戰士](/cn/Items/unt_272/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚斯巴達戰士，同時也是斯巴達戰士升星進化的必備材料 |
+  | 35 | ![暗黑領主](/images/u/ti_sishen.jpg) | [暗黑領主](/cn/Items/unt_216/){: .btn .btn--era6} | Unit Soul | 收集 80 個靈魂碎片，可以召喚暗黑領主，同時也是暗黑領主升星進化的必備材料 |
+  | 36 | ![木乃伊](/images/u/ti_munaiyi.jpg) | [木乃伊](/cn/Items/unt_215/){: .btn .btn--era4} | Unit Soul | 收集 80 個靈魂碎片，可以召喚木乃伊，木乃伊是 SR 資質兵團 |
+  | 37 | ![木精靈](/images/u/ti_mujingling.jpg) | [木精靈](/cn/Items/unt_201/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚木精靈，木精靈是 SR 資質兵團 |
+  | 38 | ![枯木衛士](/images/u/ti_shuyao.jpg) | [枯木衛士](/cn/Items/unt_203/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚枯木衛士，枯木衛士是 SR 資質兵團 |
+  | 39 | ![歌革](/images/u/ti_touhuoguai.jpg) | [歌革](/cn/Items/unt_227/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚歌革，歌革是 R 資質兵團 |
+  | 40 | ![殭屍](/images/u/ti_jiangshi.jpg) | [殭屍](/cn/Items/unt_209/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚殭屍，殭屍是 R 資質兵團 |
+  | 41 | ![毒蜂草](/images/u/ti_dufengcao.jpg) | [毒蜂草](/cn/Items/unt_260/){: .btn .btn--era4} | Unit Soul | 收集 80 個靈魂碎片，可以召喚毒蜂草，同時也是毒蜂草升星進化的必備材料 |
+  | 42 | ![比蒙](/images/u/ti_bimeng.jpg) | [比蒙](/cn/Items/unt_223/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚比蒙，比蒙是 SSR 資質兵團 |
+  | 43 | ![泰坦巨人](/images/u/ti_taitan.jpg) | [泰坦巨人](/cn/Items/unt_241/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚泰坦巨人，同時也是泰坦巨人升星進化的必備材料 |
+  | 44 | ![海后](/images/u/ti_haihou.jpg) | [海后](/cn/Items/unt_279/){: .btn .btn--era6} | Unit Soul | 收集 80 個靈魂碎片，可以召喚海后，同時也是海后升星進化的必備材料 |
+  | 45 | ![海靈](/images/u/ti_haiyuansu.jpg) | [海靈](/cn/Items/unt_275/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚海靈，同時也是海靈升星進化的必備材料 |
+  | 46 | ![炎魔](/images/u/ti_yanmo.jpg) | [炎魔](/cn/Items/unt_234/){: .btn .btn--era6} | Unit Soul | 收集 80 個靈魂碎片，可以召喚炎魔，炎魔是 指揮官 兵團 |
   | 47 | ![烈火精靈](/images/u/ti_liehuojingling.jpg) | [烈火精靈](/cn/Items/unt_231/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚烈火精靈，烈火精靈是 SR 資質兵團 |
   | 48 | ![牛頭怪](/images/u/ti_niutouguai.jpg) | [牛頭怪](/cn/Items/unt_248/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚牛頭怪，同時也是牛頭怪升星進化的必備材料 |
   | 49 | ![狂戰士](/images/u/ti_kuangzhanshi.jpg) | [狂戰士](/cn/Items/unt_224/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚狂戰士，狂戰士是 SSR 資質兵團 |

@@ -2,7 +2,7 @@
 title: "Item - Materials - 奧義之書"
 permalink: /mat_46/
 excerpt: "魔法门之英雄无敌：战争纪元  奧義之書"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "mat_46.md"
 toc: false

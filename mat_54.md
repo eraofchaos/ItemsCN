@@ -2,7 +2,7 @@
 title: "Item - Materials - 傳說礦石"
 permalink: /mat_54/
 excerpt: "魔法门之英雄无敌：战争纪元  傳說礦石"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "mat_54.md"
 toc: false

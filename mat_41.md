@@ -2,7 +2,7 @@
 title: "Item - Materials - 稀有木材"
 permalink: /mat_41/
 excerpt: "魔法门之英雄无敌：战争纪元  稀有木材"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "mat_41.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - 精美寶石"
 permalink: /mat_23/
 excerpt: "魔法门之英雄无敌：战争纪元  精美寶石"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "mat_23.md"
 toc: false

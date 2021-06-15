@@ -2,7 +2,7 @@
 title: "Item - Materials - 平凡木材"
 permalink: /mat_7/
 excerpt: "魔法门之英雄无敌：战争纪元  平凡木材"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "mat_7.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - 閃耀礦石"
 permalink: /mat_96/
 excerpt: "魔法门之英雄无敌：战争纪元  閃耀礦石"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: cn
 ref: "mat_96.md"
 toc: false
