@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Consumables.md"
 toc: false
@@ -43,64 +43,64 @@ classes: wide
   | 29 | ![Tool_9210101](/images/h/h_Xeron3.jpg) | [Tool_9210101](/cn/Items/con_1971/){: .btn .btn--era5} | Unit Skin |  |
   | 30 | ![Tool_9210903](/images/u/ti_shenpanguan.jpg) | [Tool_9210903](/cn/Items/con_1977/){: .btn .btn--era5} | Unit Skin |  |
   | 31 | ![Tool_9220902](/images/u/ti_tanglangpifu.jpg) | [Tool_9220902](/cn/Items/con_1981/){: .btn .btn--era5} | Unit Skin |  |
-  | 32 | ![Tool_9250902](/images/u/ti_yanmopifu.jpg) | [Tool_9250902](/cn/Items/con_1991/){: .btn .btn--era5} | Unit Skin |  |
-  | 33 | ![Tool_9250903](/images/u/ti_yanmodiancangpifu.jpg) | [Tool_9250903](/cn/Items/con_1992/){: .btn .btn--era5} | Unit Skin |  |
-  | 34 | ![Tool_9260903](/images/u/ti_kuileilongdiancangpifu.jpg) | [Tool_9260903](/cn/Items/con_1995/){: .btn .btn--era5} | Unit Skin |  |
-  | 35 | ![Tool_9280803](/images/u/ti_dufengcaopifu.jpg) | [Tool_9280803](/cn/Items/con_1999/){: .btn .btn--era5} | Unit Skin |  |
-  | 36 | ![Tool_9280902](/images/u/ti_baihupifu.jpg) | [Tool_9280902](/cn/Items/con_2000/){: .btn .btn--era5} | Unit Skin |  |
-  | 37 | ![Tool_940001](/images/t/shenghui_4.png) | [Tool_940001](/cn/Items/con_2087/){: .btn .btn--era4} | Battle Formation |  |
-  | 38 | ![Tool_940002](/images/t/shenghui_4.png) | [Tool_940002](/cn/Items/con_2088/){: .btn .btn--era4} | Battle Formation |  |
-  | 39 |  | [Tool_940101](/cn/Items/con_2089/){: .btn .btn--era4} | Battle Formation |  |
-  | 40 |  | [Tool_940102](/cn/Items/con_2090/){: .btn .btn--era4} | Battle Formation |  |
-  | 41 |  | [Tool_940103](/cn/Items/con_2091/){: .btn .btn--era4} | Battle Formation |  |
-  | 42 |  | [Tool_940104](/cn/Items/con_2092/){: .btn .btn--era4} | Battle Formation |  |
-  | 43 |  | [Tool_940105](/cn/Items/con_2093/){: .btn .btn--era4} | Battle Formation |  |
-  | 44 |  | [Tool_940106](/cn/Items/con_2094/){: .btn .btn--era4} | Battle Formation |  |
-  | 45 |  | [Tool_940107](/cn/Items/con_2095/){: .btn .btn--era4} | Battle Formation |  |
-  | 46 |  | [Tool_940108](/cn/Items/con_2096/){: .btn .btn--era4} | Battle Formation |  |
-  | 47 |  | [Tool_940109](/cn/Items/con_2097/){: .btn .btn--era4} | Battle Formation |  |
-  | 48 |  | [Tool_940110](/cn/Items/con_2098/){: .btn .btn--era4} | Battle Formation |  |
-  | 49 |  | [VIP 經驗](/cn/Items/con_888/){: .btn .btn--era5} | VIP related | VIP 經驗，尊貴的象徵 |
-  | 50 | ![不死疫醫 暗黑領主塗裝](/images/u/ti_sishendiancangpifu.jpg) | [不死疫醫 暗黑領主塗裝](/cn/Items/con_1986/){: .btn .btn--era5} | Unit Skin | 打開後獲得不死疫醫 暗黑領主塗裝 |
-  | 51 | ![中戰役寶藏](/images/t/i_506.png) | [中戰役寶藏](/cn/Items/con_722/){: .btn .btn--era3} | EXP | 一箱寶藏，開啟可獲得 30 枚帝國勳章 |
-  | 52 | ![中瓶體力藥水](/images/t/i_505.png) | [中瓶體力藥水](/cn/Items/con_705/){: .btn .btn--era3} | EXP | 品質純淨的體力藥水，具有更強的效果，使用後可以增加 30 點體力 |
-  | 53 | ![中立鑄造石](/images/t/i_8003.png) | [中立鑄造石](/cn/Items/con_1125/){: .btn .btn--era5} | Holy Emblems Cast Stone | 中立鑄造石，中立類別的聖徽鑄造時必消耗的道具 |
-  | 54 | ![中競技寶藏](/images/t/i_503.png) | [中競技寶藏](/cn/Items/con_718/){: .btn .btn--era3} | EXP | 一箱寶藏，開啟可獲得 30 枚競技幣 |
-  | 55 | ![中袋鑽石](/images/t/i_508.png) | [中袋鑽石](/cn/Items/con_709/){: .btn .btn--era3} | EXP | 一袋鑽石，拆開可獲得 68 鑽石 |
-  | 56 | ![中袋黃金](/images/t/i_511.png) | [中袋黃金](/cn/Items/con_713/){: .btn .btn--era3} | EXP | 一袋黃金，拆開可獲得 30,000 黃金。 |
-  | 57 | ![亞茲拉爾－暗黑領主塗裝](/images/u/ti_sishenpifu2.jpg) | [亞茲拉爾－暗黑領主塗裝](/cn/Items/con_1985/){: .btn .btn--era5} | Unit Skin | 開啟後獲得亞茲拉爾－暗黑領主塗裝 |
-  | 58 | ![亞馬遜戰士 卡珊卓](/images/h/h_kashandela1.jpg) | [亞馬遜戰士 卡珊卓](/cn/Items/con_1082/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：亞馬遜戰士 卡珊卓 |
-  | 59 | ![亡魂歸來 黑暗騎士皮膚](/images/u/ti_heianqishipifu.jpg) | [亡魂歸來 黑暗騎士皮膚](/cn/Items/con_1983/){: .btn .btn--era5} | Unit Skin | 打開後獲得亡魂歸來 黑暗騎士皮膚 |
-  | 60 | ![交鋒幣](/images/t/i_117.png) | [交鋒幣](/cn/Items/con_907/){: .btn .btn--era5} | VIP related | 交鋒幣，通過英雄交鋒玩法獲得 |
-  | 61 | ![任務積分](/images/t/i_40044.png) | [任務積分](/cn/Items/con_949/){: .btn .btn--era4} | Other | 可透過完成任務獲得積分，用來解鎖特殊商品 |
-  | 62 |  | [伏櫪特效塗裝](/cn/Items/con_673/){: .btn .btn--era5} | Special Skin | 伏櫪喚醒後可解鎖該塗裝 |
-  | 63 |  | [伏櫪碎片](/cn/Items/con_1005/){: .btn .btn--era5} | Exclusive piece | 上古戰役中遺留下來的伏櫪碎片，可用于喚醒龍龜專屬伏櫪的潛力 |
-  | 64 | ![偵查小隊－格魯](/images/h/h_Gelu5.jpg) | [偵查小隊－格魯](/cn/Items/con_1038/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：偵查小隊－格魯 |
-  | 65 | ![傳說勇者（14天）](/images/a/avatarFrame_61.png) | [傳說勇者（14天）](/cn/Items/con_1019/){: .btn .btn--era5} | Experience Card | 跨服諸神季軍可獲得 |
-  | 66 | ![光明守衛－天使塗裝](/images/u/ti_datianshipifu2.jpg) | [光明守衛－天使塗裝](/cn/Items/con_1973/){: .btn .btn--era5} | Unit Skin | 開啟後獲得光明守衛－天使塗裝 |
-  | 67 |  | [克里根怒鋒特效塗裝](/cn/Items/con_652/){: .btn .btn--era5} | Special Skin | 克里根怒鋒喚醒後可解鎖該塗裝 |
-  | 68 |  | [克里根怒鋒碎片](/cn/Items/con_984/){: .btn .btn--era5} | Exclusive piece | 上古戰役中遺留下來的克里根怒鋒碎片，可用於喚醒大惡魔專屬克里根怒鋒的潛力 |
-  | 69 | ![免費紅包](/images/t/i_red_1.png) | [免費紅包](/cn/Items/con_842/){: .btn .btn--era5} | Guild member gift | 恭喜您通關雲中城第三層，獲得一次免費給聯盟小夥伴發紅包的機會！ |
-  | 70 | ![共邀月明—珍妮](/images/h/h_Gem7.jpg) | [共邀月明—珍妮](/cn/Items/con_1048/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：共邀月明 珍妮 |
-  | 71 | ![兵團經驗](/images/t/i_106.png) | [兵團經驗](/cn/Items/con_902/){: .btn .btn--era9} | VIP related | 兵團經驗，升級兵團時消耗經驗 |
-  | 72 | ![典藏卡經驗](/images/t/i_40035.png) | [典藏卡經驗](/cn/Items/con_943/){: .btn .btn--era5} | Other | 典藏卡經驗，可提升目前啟用的典藏卡等級 |
-  | 73 | ![冠軍鬥士－孟斐拉](/images/h/h_Mephala7.jpg) | [冠軍鬥士－孟斐拉](/cn/Items/con_1043/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：冠軍鬥士－孟斐拉 |
-  | 74 | ![冠軍鬥士－艾德雷德](/images/h/h_Adelaide8.jpg) | [冠軍鬥士－艾德雷德](/cn/Items/con_1026/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：冠軍鬥士－艾德雷德 |
-  | 75 | ![冠軍鬥士－薩費羅斯](/images/h/h_Sephinroth2.jpg) | [冠軍鬥士－薩費羅斯](/cn/Items/con_1077/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：冠軍鬥士－薩費羅斯 |
-  | 76 |  | [冥骸特效塗裝](/cn/Items/con_648/){: .btn .btn--era5} | Special Skin | 冥骸喚醒後可解鎖該塗裝 |
-  | 77 |  | [冥骸碎片](/cn/Items/con_980/){: .btn .btn--era5} | Exclusive piece | 上古戰役中遺留下來的冥骸碎片，可用於喚醒骨龍專屬冥骸的潛力 |
-  | 78 | ![冰晶－艾德雷德](/images/h/h_Adelaide3.jpg) | [冰晶－艾德雷德](/cn/Items/con_1023/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：冰晶－艾德雷德 |
-  | 79 | ![刀鋒領主娜迦塗裝頭像（2天）](/images/u/ti_najia.jpg) | [刀鋒領主娜迦塗裝頭像（2天）](/cn/Items/con_1011/){: .btn .btn--era5} | Experience Card | 使用後將獲得刀鋒領主娜迦塗裝頭像2天使用權 |
-  | 80 | ![刀鋒領主娜迦塗裝（2天）](/images/u/ti_najia.jpg) | [刀鋒領主娜迦塗裝（2天）](/cn/Items/con_1013/){: .btn .btn--era5} | Experience Card | 使用後將獲得刀鋒領主娜迦塗裝2天使用權 |
-  | 81 | ![刀鋒領主．娜迦塗裝](/images/u/ti_najia.jpg) | [刀鋒領主．娜迦塗裝](/cn/Items/con_1993/){: .btn .btn--era5} | Unit Skin | 開啟後獲得刀鋒領主．娜迦塗裝 |
-  | 82 | ![初級月卡](/images/t/i_month.png) | [初級月卡](/cn/Items/con_884/){: .btn .btn--era4} | VIP related | 能夠不斷帶來財富的神祕物品，相傳只有最幸運的人才能獲得 |
-  | 83 | ![初級材料寶箱](/images/t/i_304002.png) | [初級材料寶箱](/cn/Items/con_756/){: .btn .btn--era3} | Material Chest | 可以根據玩家等級開出對應的裝備進階普通材料 |
-  | 84 | ![加速令](/images/t/i_jiasujuanzhou.png) | [加速令](/cn/Items/con_906/){: .btn .btn--era4} | Shipyard related | 使用後可以為目前船塢任務加速 30 分鐘 |
-  | 85 |  | [北極星特效塗裝](/cn/Items/con_657/){: .btn .btn--era4} | Special Skin | 北極星喚醒後可解鎖該塗裝 |
-  | 86 |  | [北極星碎片](/cn/Items/con_989/){: .btn .btn--era4} | Exclusive piece | 上古戰役中遺留下來的北極星碎片，可用於喚醒魔力飛艇專屬北極星的潛力 |
-  | 87 | ![南瓜騎士 黑暗騎士塗裝](/images/u/ti_siwangqishipifu.jpg) | [南瓜騎士 黑暗騎士塗裝](/cn/Items/con_1982/){: .btn .btn--era5} | Unit Skin | 打開後獲得南瓜騎士 黑暗騎士塗裝 |
-  | 88 | ![占星限量銀幣](/images/t/artifact_41003.png) | [占星限量銀幣](/cn/Items/con_969/){: .btn .btn--era5} | Other | 來歷不明的神祕硬幣，據說可以免費寶物占星一次且不消耗占星次數 |
-  | 89 | ![友情積分](/images/t/i_40006.png) | [友情積分](/cn/Items/con_918/){: .btn .btn--era4} | Other | 通過邀請好友和完成好友任務獲得的友情證明 |
+  | 32 | ![Tool_9250903](/images/u/ti_yanmodiancangpifu.jpg) | [Tool_9250903](/cn/Items/con_1992/){: .btn .btn--era5} | Unit Skin |  |
+  | 33 | ![Tool_9260903](/images/u/ti_kuileilongdiancangpifu.jpg) | [Tool_9260903](/cn/Items/con_1995/){: .btn .btn--era5} | Unit Skin |  |
+  | 34 | ![Tool_9280803](/images/u/ti_dufengcaopifu.jpg) | [Tool_9280803](/cn/Items/con_1999/){: .btn .btn--era5} | Unit Skin |  |
+  | 35 | ![Tool_9280902](/images/u/ti_baihupifu.jpg) | [Tool_9280902](/cn/Items/con_2000/){: .btn .btn--era5} | Unit Skin |  |
+  | 36 | ![Tool_940001](/images/t/shenghui_4.png) | [Tool_940001](/cn/Items/con_2087/){: .btn .btn--era4} | Battle Formation |  |
+  | 37 | ![Tool_940002](/images/t/shenghui_4.png) | [Tool_940002](/cn/Items/con_2088/){: .btn .btn--era4} | Battle Formation |  |
+  | 38 |  | [Tool_940101](/cn/Items/con_2089/){: .btn .btn--era4} | Battle Formation |  |
+  | 39 |  | [Tool_940102](/cn/Items/con_2090/){: .btn .btn--era4} | Battle Formation |  |
+  | 40 |  | [Tool_940103](/cn/Items/con_2091/){: .btn .btn--era4} | Battle Formation |  |
+  | 41 |  | [Tool_940104](/cn/Items/con_2092/){: .btn .btn--era4} | Battle Formation |  |
+  | 42 |  | [Tool_940105](/cn/Items/con_2093/){: .btn .btn--era4} | Battle Formation |  |
+  | 43 |  | [Tool_940106](/cn/Items/con_2094/){: .btn .btn--era4} | Battle Formation |  |
+  | 44 |  | [Tool_940107](/cn/Items/con_2095/){: .btn .btn--era4} | Battle Formation |  |
+  | 45 |  | [Tool_940108](/cn/Items/con_2096/){: .btn .btn--era4} | Battle Formation |  |
+  | 46 |  | [Tool_940109](/cn/Items/con_2097/){: .btn .btn--era4} | Battle Formation |  |
+  | 47 |  | [Tool_940110](/cn/Items/con_2098/){: .btn .btn--era4} | Battle Formation |  |
+  | 48 |  | [VIP 經驗](/cn/Items/con_888/){: .btn .btn--era5} | VIP related | VIP 經驗，尊貴的象徵 |
+  | 49 | ![不死疫醫 暗黑領主塗裝](/images/u/ti_sishendiancangpifu.jpg) | [不死疫醫 暗黑領主塗裝](/cn/Items/con_1986/){: .btn .btn--era5} | Unit Skin | 打開後獲得不死疫醫 暗黑領主塗裝 |
+  | 50 | ![中戰役寶藏](/images/t/i_506.png) | [中戰役寶藏](/cn/Items/con_722/){: .btn .btn--era3} | EXP | 一箱寶藏，開啟可獲得 30 枚帝國勳章 |
+  | 51 | ![中瓶體力藥水](/images/t/i_505.png) | [中瓶體力藥水](/cn/Items/con_705/){: .btn .btn--era3} | EXP | 品質純淨的體力藥水，具有更強的效果，使用後可以增加 30 點體力 |
+  | 52 | ![中立鑄造石](/images/t/i_8003.png) | [中立鑄造石](/cn/Items/con_1125/){: .btn .btn--era5} | Holy Emblems Cast Stone | 中立鑄造石，中立類別的聖徽鑄造時必消耗的道具 |
+  | 53 | ![中競技寶藏](/images/t/i_503.png) | [中競技寶藏](/cn/Items/con_718/){: .btn .btn--era3} | EXP | 一箱寶藏，開啟可獲得 30 枚競技幣 |
+  | 54 | ![中袋鑽石](/images/t/i_508.png) | [中袋鑽石](/cn/Items/con_709/){: .btn .btn--era3} | EXP | 一袋鑽石，拆開可獲得 68 鑽石 |
+  | 55 | ![中袋黃金](/images/t/i_511.png) | [中袋黃金](/cn/Items/con_713/){: .btn .btn--era3} | EXP | 一袋黃金，拆開可獲得 30,000 黃金。 |
+  | 56 | ![亞茲拉爾－暗黑領主塗裝](/images/u/ti_sishenpifu2.jpg) | [亞茲拉爾－暗黑領主塗裝](/cn/Items/con_1985/){: .btn .btn--era5} | Unit Skin | 開啟後獲得亞茲拉爾－暗黑領主塗裝 |
+  | 57 | ![亞馬遜戰士 卡珊卓](/images/h/h_kashandela1.jpg) | [亞馬遜戰士 卡珊卓](/cn/Items/con_1082/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：亞馬遜戰士 卡珊卓 |
+  | 58 | ![亡魂歸來 黑暗騎士皮膚](/images/u/ti_heianqishipifu.jpg) | [亡魂歸來 黑暗騎士皮膚](/cn/Items/con_1983/){: .btn .btn--era5} | Unit Skin | 打開後獲得亡魂歸來 黑暗騎士皮膚 |
+  | 59 | ![交鋒幣](/images/t/i_117.png) | [交鋒幣](/cn/Items/con_907/){: .btn .btn--era5} | VIP related | 交鋒幣，通過英雄交鋒玩法獲得 |
+  | 60 | ![任務積分](/images/t/i_40044.png) | [任務積分](/cn/Items/con_949/){: .btn .btn--era4} | Other | 可透過完成任務獲得積分，用來解鎖特殊商品 |
+  | 61 |  | [伏櫪特效塗裝](/cn/Items/con_673/){: .btn .btn--era5} | Special Skin | 伏櫪喚醒後可解鎖該塗裝 |
+  | 62 |  | [伏櫪碎片](/cn/Items/con_1005/){: .btn .btn--era5} | Exclusive piece | 上古戰役中遺留下來的伏櫪碎片，可用于喚醒龍龜專屬伏櫪的潛力 |
+  | 63 | ![偵查小隊－格魯](/images/h/h_Gelu5.jpg) | [偵查小隊－格魯](/cn/Items/con_1038/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：偵查小隊－格魯 |
+  | 64 | ![傳說勇者（14天）](/images/a/avatarFrame_61.png) | [傳說勇者（14天）](/cn/Items/con_1019/){: .btn .btn--era5} | Experience Card | 跨服諸神季軍可獲得 |
+  | 65 | ![光明守衛－天使塗裝](/images/u/ti_datianshipifu2.jpg) | [光明守衛－天使塗裝](/cn/Items/con_1973/){: .btn .btn--era5} | Unit Skin | 開啟後獲得光明守衛－天使塗裝 |
+  | 66 |  | [克里根怒鋒特效塗裝](/cn/Items/con_652/){: .btn .btn--era5} | Special Skin | 克里根怒鋒喚醒後可解鎖該塗裝 |
+  | 67 |  | [克里根怒鋒碎片](/cn/Items/con_984/){: .btn .btn--era5} | Exclusive piece | 上古戰役中遺留下來的克里根怒鋒碎片，可用於喚醒大惡魔專屬克里根怒鋒的潛力 |
+  | 68 | ![免費紅包](/images/t/i_red_1.png) | [免費紅包](/cn/Items/con_842/){: .btn .btn--era5} | Guild member gift | 恭喜您通關雲中城第三層，獲得一次免費給聯盟小夥伴發紅包的機會！ |
+  | 69 | ![共邀月明—珍妮](/images/h/h_Gem7.jpg) | [共邀月明—珍妮](/cn/Items/con_1048/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：共邀月明 珍妮 |
+  | 70 | ![兵團經驗](/images/t/i_106.png) | [兵團經驗](/cn/Items/con_902/){: .btn .btn--era9} | VIP related | 兵團經驗，升級兵團時消耗經驗 |
+  | 71 | ![典藏卡經驗](/images/t/i_40035.png) | [典藏卡經驗](/cn/Items/con_943/){: .btn .btn--era5} | Other | 典藏卡經驗，可提升目前啟用的典藏卡等級 |
+  | 72 | ![冠軍鬥士－孟斐拉](/images/h/h_Mephala7.jpg) | [冠軍鬥士－孟斐拉](/cn/Items/con_1043/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：冠軍鬥士－孟斐拉 |
+  | 73 | ![冠軍鬥士－艾德雷德](/images/h/h_Adelaide8.jpg) | [冠軍鬥士－艾德雷德](/cn/Items/con_1026/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：冠軍鬥士－艾德雷德 |
+  | 74 | ![冠軍鬥士－薩費羅斯](/images/h/h_Sephinroth2.jpg) | [冠軍鬥士－薩費羅斯](/cn/Items/con_1077/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：冠軍鬥士－薩費羅斯 |
+  | 75 |  | [冥骸特效塗裝](/cn/Items/con_648/){: .btn .btn--era5} | Special Skin | 冥骸喚醒後可解鎖該塗裝 |
+  | 76 |  | [冥骸碎片](/cn/Items/con_980/){: .btn .btn--era5} | Exclusive piece | 上古戰役中遺留下來的冥骸碎片，可用於喚醒骨龍專屬冥骸的潛力 |
+  | 77 | ![冰晶－艾德雷德](/images/h/h_Adelaide3.jpg) | [冰晶－艾德雷德](/cn/Items/con_1023/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：冰晶－艾德雷德 |
+  | 78 | ![刀鋒領主娜迦塗裝頭像（2天）](/images/u/ti_najia.jpg) | [刀鋒領主娜迦塗裝頭像（2天）](/cn/Items/con_1011/){: .btn .btn--era5} | Experience Card | 使用後將獲得刀鋒領主娜迦塗裝頭像2天使用權 |
+  | 79 | ![刀鋒領主娜迦塗裝（2天）](/images/u/ti_najia.jpg) | [刀鋒領主娜迦塗裝（2天）](/cn/Items/con_1013/){: .btn .btn--era5} | Experience Card | 使用後將獲得刀鋒領主娜迦塗裝2天使用權 |
+  | 80 | ![刀鋒領主．娜迦塗裝](/images/u/ti_najia.jpg) | [刀鋒領主．娜迦塗裝](/cn/Items/con_1993/){: .btn .btn--era5} | Unit Skin | 開啟後獲得刀鋒領主．娜迦塗裝 |
+  | 81 | ![初級月卡](/images/t/i_month.png) | [初級月卡](/cn/Items/con_884/){: .btn .btn--era4} | VIP related | 能夠不斷帶來財富的神祕物品，相傳只有最幸運的人才能獲得 |
+  | 82 | ![初級材料寶箱](/images/t/i_304002.png) | [初級材料寶箱](/cn/Items/con_756/){: .btn .btn--era3} | Material Chest | 可以根據玩家等級開出對應的裝備進階普通材料 |
+  | 83 | ![加速令](/images/t/i_jiasujuanzhou.png) | [加速令](/cn/Items/con_906/){: .btn .btn--era4} | Shipyard related | 使用後可以為目前船塢任務加速 30 分鐘 |
+  | 84 |  | [北極星特效塗裝](/cn/Items/con_657/){: .btn .btn--era4} | Special Skin | 北極星喚醒後可解鎖該塗裝 |
+  | 85 |  | [北極星碎片](/cn/Items/con_989/){: .btn .btn--era4} | Exclusive piece | 上古戰役中遺留下來的北極星碎片，可用於喚醒魔力飛艇專屬北極星的潛力 |
+  | 86 | ![南瓜騎士 黑暗騎士塗裝](/images/u/ti_siwangqishipifu.jpg) | [南瓜騎士 黑暗騎士塗裝](/cn/Items/con_1982/){: .btn .btn--era5} | Unit Skin | 打開後獲得南瓜騎士 黑暗騎士塗裝 |
+  | 87 | ![占星限量銀幣](/images/t/artifact_41003.png) | [占星限量銀幣](/cn/Items/con_969/){: .btn .btn--era5} | Other | 來歷不明的神祕硬幣，據說可以免費寶物占星一次且不消耗占星次數 |
+  | 88 | ![友情積分](/images/t/i_40006.png) | [友情積分](/cn/Items/con_918/){: .btn .btn--era4} | Other | 通過邀請好友和完成好友任務獲得的友情證明 |
+  | 89 |  | [古錢幣](/cn/Items/con_2190/){: .btn .btn--era4} | Other | 戰場遺跡玩法內可以使用的貨幣，可用於招募兵團，購買遠古秘術和遺物，每次進入玩法古錢幣數量會重置為0 |
   | 90 | ![命運主宰（14天）](/images/a/avatarFrame_63.png) | [命運主宰（14天）](/cn/Items/con_1021/){: .btn .btn--era5} | Experience Card | 跨服諸神冠軍可獲得 |
   | 91 | ![唐．姆拉克](/images/h/h_Mullich4.jpg) | [唐．姆拉克](/cn/Items/con_1028/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：唐．姆拉克 |
   | 92 | ![啟示錄 埃齊歐](/images/h/h_Ezio1.jpg) | [啟示錄 埃齊歐](/cn/Items/con_1081/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：啟示錄 埃齊歐 |
@@ -220,142 +220,144 @@ classes: wide
   | 206 |  | [無畏狂攻碎片](/cn/Items/con_912/){: .btn .btn--era4} | Exclusive piece | 上古戰役中遺留下來的專屬碎片，可用於喚醒攻擊兵團通用專屬無畏狂攻的潛力 |
   | 207 |  | [無畏碎片](/cn/Items/con_974/){: .btn .btn--era5} | Exclusive piece | 上古戰役中遺留下來的無畏碎片，可用於喚醒聖堂武士專屬無畏的潛力 |
   | 208 | ![無盡煉獄頭像框（7天）](/images/a/avatarFrame_58.png) | [無盡煉獄頭像框（7天）](/cn/Items/con_1009/){: .btn .btn--era5} | Experience Card | 使用後將獲得無盡煉獄頭像框7天使用權 |
-  | 209 | ![父子情深－羅蘭德](/images/h/h_Roland9.jpg) | [父子情深－羅蘭德](/cn/Items/con_1036/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：父子情深－羅蘭德 |
-  | 210 | ![特權點](/images/t/i_310001.png) | [特權點](/cn/Items/con_820/){: .btn .btn--era4} | Other | 用來解鎖或提升特權能力，可在每日任務活躍度寶箱中獲得 |
-  | 211 |  | [狂熱屠戮](/cn/Items/con_983/){: .btn .btn--era5} | Exclusive piece | 上古戰役中遺留下來的狂熱屠戮碎片，可用于喚醒狂戰士專屬狂熱屠戮的潛力 |
-  | 212 |  | [狂熱屠戮特效塗裝](/cn/Items/con_651/){: .btn .btn--era5} | Special Skin | 狂熱屠戮喚醒後可解鎖該塗裝 |
-  | 213 |  | [獵影逐風碎片](/cn/Items/con_914/){: .btn .btn--era4} | Exclusive piece | 上古戰役中遺留下來的專屬碎片，可用於喚醒射手兵團通用專屬獵影逐風的潛力 |
-  | 214 | ![王室婚禮凱薩琳塗裝頭像（2天）](/images/h/h_Catherine4.jpg) | [王室婚禮凱薩琳塗裝頭像（2天）](/cn/Items/con_1015/){: .btn .btn--era5} | Experience Card | 使用後將獲得王室婚禮凱薩琳塗裝頭像2天使用權 |
-  | 215 | ![王室婚禮凱薩琳塗裝（2天）](/images/h/h_Catherine8.jpg) | [王室婚禮凱薩琳塗裝（2天）](/cn/Items/con_1017/){: .btn .btn--era5} | Experience Card | 使用後將獲得王室婚禮凱薩琳塗裝2天使用權 |
-  | 216 | ![王室婚禮－凱瑟琳](/images/h/h_Catherine7.jpg) | [王室婚禮－凱瑟琳](/cn/Items/con_1030/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：王室婚禮－凱瑟琳 |
-  | 217 | ![王室婚禮－羅蘭德](/images/h/h_Roland7.jpg) | [王室婚禮－羅蘭德](/cn/Items/con_1035/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：王室婚禮－羅蘭德 |
-  | 218 | ![玩家經驗](/images/t/i_101.png) | [玩家經驗](/cn/Items/con_897/){: .btn .btn--era4} | VIP related | 玩家經驗，誰都想要 |
-  | 219 | ![玩家經驗藥水](/images/t/i_501.png) | [玩家經驗藥水](/cn/Items/con_676/){: .btn .btn--era2} | EXP | 鳳凰升星的必備材料，鳳凰是 SR 資質兵團 |
-  | 220 | ![瑞格納金幣](/images/t/i_40046.png) | [瑞格納金幣](/cn/Items/con_951/){: .btn .btn--era5} | Other | 港口來襲活動掉落道具，用於召喚頭目進行挑戰 |
-  | 221 | ![瑞格納銀幣](/images/t/i_40047.png) | [瑞格納銀幣](/cn/Items/con_952/){: .btn .btn--era5} | Other | 港口來襲活動掉落道具，用於召喚頭目進行挑戰 |
-  | 222 | ![瑞格納銅幣](/images/t/i_40048.png) | [瑞格納銅幣](/cn/Items/con_953/){: .btn .btn--era5} | Other | 港口來襲活動掉落道具，用於召喚頭目進行挑戰 |
-  | 223 |  | [璀璨之翼特效塗裝](/cn/Items/con_644/){: .btn .btn--era5} | Special Skin | 璀璨之翼喚醒後可解鎖該塗裝 |
-  | 224 |  | [璀璨之翼碎片](/cn/Items/con_976/){: .btn .btn--era5} | Exclusive piece | 上古戰役中遺留下來的璀璨之翼碎片，可用于喚醒綠龍專屬璀璨之翼的潛力 |
-  | 225 |  | [瓦威恩特效塗裝](/cn/Items/con_664/){: .btn .btn--era4} | Special Skin | 瓦威恩喚醒後可解鎖該塗裝 |
-  | 226 |  | [瓦威恩碎片](/cn/Items/con_996/){: .btn .btn--era4} | Exclusive piece | 上古戰役中遺留下來的瓦威恩碎片，可以用於喚醒雙足飛龍專屬瓦威恩的潛力 |
-  | 227 | ![瓶中魔鬼－索姆拉](/images/h/h_Solmyr2.jpg) | [瓶中魔鬼－索姆拉](/cn/Items/con_1065/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：瓶中魔鬼－索姆拉 |
-  | 228 | ![生存技巧奧義](/images/t/i_7002.png) | [生存技巧奧義](/cn/Items/con_1111/){: .btn .btn--era3} | Skill Essence | 記載了初級戰鬥奧義，可用於提高兵團的生存技巧 |
-  | 229 | ![異端學徒－維德尼娜](/images/h/h_Vidomina3.jpg) | [異端學徒－維德尼娜](/cn/Items/con_1052/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：異端學徒－維德尼娜 |
-  | 230 | ![發條巨獸 β 傀儡龍](/images/u/ti_kuileilongpifu2.jpg) | [發條巨獸 β 傀儡龍](/cn/Items/con_1994/){: .btn .btn--era5} | Unit Skin | 開啟後獲得發條巨獸 β 傀儡龍塗裝 |
-  | 231 |  | [白晶符石](/cn/Items/con_707/){: .btn .btn--era1} | Material | 虛空中的神祕符石，可以略微提升兵團對技能的領悟力，使用後增加 10 點技能經驗 |
-  | 232 | ![皈依聖徒—僧侶塗裝](/images/u/ti_senglvshengdan.jpg) | [皈依聖徒—僧侶塗裝](/cn/Items/con_1972/){: .btn .btn--era5} | Unit Skin | 開啟後獲得皈依聖徒—僧侶塗裝 |
-  | 233 | ![皈依聖徒僧侶塗裝頭像（2天）](/images/u/ti_senglvshengdan.jpg) | [皈依聖徒僧侶塗裝頭像（2天）](/cn/Items/con_1012/){: .btn .btn--era5} | Experience Card | 使用後將獲得皈依聖徒僧侶塗裝頭像2天使用權 |
-  | 234 | ![皈依聖徒僧侶塗裝（2天）](/images/u/ti_senglvshengdan.jpg) | [皈依聖徒僧侶塗裝（2天）](/cn/Items/con_1014/){: .btn .btn--era5} | Experience Card | 使用後將獲得皈依聖徒僧侶塗裝2天使用權 |
-  | 235 | ![皈聖信徒－審判官塗裝](/images/u/ti_shenpanguanpifu2.jpg) | [皈聖信徒－審判官塗裝](/cn/Items/con_1976/){: .btn .btn--era5} | Unit Skin | 開啟後獲得皈聖信徒－審判官塗裝 |
-  | 236 |  | [瞬移術](/cn/Items/con_944/){: .btn .btn--era4} | Other | 可瞬間移動，可在奇跡之海活動中使用 |
-  | 237 | ![社會名流－凱瑟琳](/images/h/h_Catherine8.jpg) | [社會名流－凱瑟琳](/cn/Items/con_1031/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：社會名流－凱瑟琳 |
-  | 238 | ![祈願寶典](/images/t/i_40005.png) | [祈願寶典](/cn/Items/con_917/){: .btn .btn--era5} | Other | 吟唱其中的咒文可以喚醒法術源泉，獲得一次免費法術祈願的機會 |
-  | 239 | ![祈願靈石](/images/t/artifact_41005.png) | [祈願靈石](/cn/Items/con_971/){: .btn .btn--era5} | Other | 由術士們精心提煉而成的靈石，專門使用於法術祈願。 |
-  | 240 | ![神力結晶](/images/t/i_godStone.png) | [神力結晶](/cn/Items/con_927/){: .btn .btn--era5} | Other | 神力凝練而成的晶體，可以在跨服商店兌換珍稀物資，跨服諸神中可以獲得。 |
-  | 241 | ![神水](/images/t/i_40054.png) | [神水](/cn/Items/con_959/){: .btn .btn--era5} | Other | 神像試煉產出的資源，可以在商店購買物品 |
-  | 242 | ![神聖聯盟－凱瑟琳](/images/h/h_Catherine10.jpg) | [神聖聯盟－凱瑟琳](/cn/Items/con_1032/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：神聖聯盟－凱瑟琳 |
-  | 243 | ![神聖聯盟－格魯](/images/h/h_Gelu9.jpg) | [神聖聯盟－格魯](/cn/Items/con_1040/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：神聖聯盟－格魯 |
-  | 244 | ![稀有材料寶箱](/images/t/i_304001.png) | [稀有材料寶箱](/cn/Items/con_757/){: .btn .btn--era4} | Material Chest | 可以根據玩家等級開出對應的裝備進階稀有材料 |
-  | 245 |  | [立減券](/cn/Items/con_945/){: .btn .btn--era4} | Other | 商品立減券，可在奇跡之海活動中使用 |
-  | 246 | ![競技幣](/images/t/i_107.png) | [競技幣](/cn/Items/con_903/){: .btn .btn--era9} | VIP related | 競技幣，競技場挑戰及每日結算可獲得 |
-  | 247 | ![箭矢](/images/t/i_arrow.png) | [箭矢](/cn/Items/con_890/){: .btn .btn--era4} | VIP related | 木精靈慣用的箭矢 |
-  | 248 | ![簽到幣](/images/t/i_40016.png) | [簽到幣](/cn/Items/con_928/){: .btn .btn--era4} | Other | 稀有貨幣，可以在簽到商店中兌換各種道具 |
-  | 249 | ![粉絲券](/images/t/i_120.png) | [粉絲券](/cn/Items/con_908/){: .btn .btn--era9} | VIP related | 粉絲券 |
-  | 250 | ![精力](/images/t/i_40049.png) | [精力](/cn/Items/con_954/){: .btn .btn--era5} | Other | 港口來襲活動中挑戰頭目所消耗的道具 |
-  | 251 | ![精密零件](/images/t/i_40008.png) | [精密零件](/cn/Items/con_920/){: .btn .btn--era4} | Other | 精密零件，用於強化配件的材料，可通過分解配件獲得 |
-  | 252 | ![糖果女巫](/images/h/h_Vidomina5.jpg) | [糖果女巫](/cn/Items/con_1053/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：糖果女巫－維德尼娜 |
-  | 253 | ![紀念幣](/images/t/i_39970.png) | [紀念幣](/cn/Items/con_877/){: .btn .btn--era5} | Other | 諸神之戰的參賽者證明 |
-  | 254 |  | [紀念石像](/cn/Items/con_947/){: .btn .btn--era4} | Other | 可用來兌換復活節禮品 |
-  | 255 |  | [紫晶符石](/cn/Items/con_720/){: .btn .btn--era4} | Material | 虛空中的神祕符石，可以大幅提升兵團對技能的領悟力，使用後增加 450 點技能經驗 |
-  | 256 |  | [綠晶符石](/cn/Items/con_711/){: .btn .btn--era2} | Material | 虛空中的神祕符石，可以小幅提升兵團對技能的領悟力，使用後增加 50 點技能經驗 |
-  | 257 | ![維京之道 狂戰士塗裝](/images/u/ti_kuangzhanshipifu.jpg) | [維京之道 狂戰士塗裝](/cn/Items/con_1988/){: .btn .btn--era5} | Unit Skin | 打開後獲得維京之道 狂戰士塗裝 |
-  | 258 | ![維京戰神－肯洛．哈格](/images/h/h_CragHack3.jpg) | [維京戰神－肯洛．哈格](/cn/Items/con_1056/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：維京戰神－肯洛．哈格 |
-  | 259 | ![維爾寧守護者－羅伊德](/images/h/h_Ryland4.jpg) | [維爾寧守護者－羅伊德](/cn/Items/con_1045/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：維爾寧守護者－羅伊德 |
-  | 260 | ![縛能魔瓶（中）](/images/t/i_521.png) | [縛能魔瓶（中）](/cn/Items/con_725/){: .btn .btn--era4} | EXP | 盛有大量寶物的精華的魔瓶，使用後獲得 20 個寶物精華 |
-  | 261 | ![縛能魔瓶（大）](/images/t/i_522.png) | [縛能魔瓶（大）](/cn/Items/con_726/){: .btn .btn--era4} | EXP | 盛有巨量寶物的精華的魔瓶，使用後獲得 30 個寶物精華 |
-  | 262 | ![縛能魔瓶（小）](/images/t/i_520.png) | [縛能魔瓶（小）](/cn/Items/con_724/){: .btn .btn--era4} | EXP | 盛有少量寶物的精華的魔瓶，使用後獲得 10 個寶物精華 |
-  | 263 | ![織愛女神－薩麗爾](/images/h/h_Ciele3.jpg) | [織愛女神－薩麗爾](/cn/Items/con_1061/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：織愛女神－薩麗爾 |
-  | 264 |  | [纏布特效塗裝](/cn/Items/con_649/){: .btn .btn--era4} | Special Skin | 纏布喚醒後可解鎖該塗裝 |
-  | 265 |  | [纏布碎片](/cn/Items/con_981/){: .btn .btn--era4} | Exclusive piece | 上古戰役中遺留下來的纏布碎片，可用於喚醒木乃伊專屬纏布的潛力 |
-  | 266 | ![翡翠精靈－木精靈塗裝](/images/u/ti_mujinglingpifu2.jpg) | [翡翠精靈－木精靈塗裝](/cn/Items/con_1979/){: .btn .btn--era5} | Unit Skin | 開啟後獲得翡翠精靈－木精靈塗裝 |
-  | 267 |  | [聖劍杜蘭德爾特效塗裝](/cn/Items/con_641/){: .btn .btn--era5} | Special Skin | 聖劍杜蘭德爾喚醒後可解鎖該塗裝 |
-  | 268 |  | [聖劍杜蘭德爾碎片](/cn/Items/con_973/){: .btn .btn--era5} | Exclusive piece | 上古戰役中遺留下來的聖劍杜蘭德爾碎片，可用于喚醒天使專屬聖劍杜蘭德爾的潛力 |
-  | 269 |  | [聖城幣](/cn/Items/con_2161/){: .btn .btn--era5} | Other | 聖城攻襲產出的代幣，象徵著戰功和榮耀 |
-  | 270 |  | [聖堂輝光旗魂](/cn/Items/con_975/){: .btn .btn--era6} | Exclusive piece | 上古戰役中遺留下來的平原城堡旗魂，可用于喚醒審判官戰旗聖堂輝光的潛力 |
-  | 271 | ![聖誕精靈](/images/h/h_MutareDrake5.jpg) | [聖誕精靈](/cn/Items/con_1074/){: .btn .btn--era5} | Special Skin | 與雪花嬉戲的聖誕精靈 |
-  | 272 | ![聖誕頌歌](/images/h/h_CragHack7.jpg) | [聖誕頌歌](/cn/Items/con_1058/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：聖誕頌歌－肯洛．哈格 |
-  | 273 | ![聖誕頌歌艾德雷德塗裝頭像（2天）](/images/h/h_Adelaide5.jpg) | [聖誕頌歌艾德雷德塗裝頭像（2天）](/cn/Items/con_1016/){: .btn .btn--era5} | Experience Card | 使用後將獲得聖誕頌歌艾德雷德塗裝頭像2天使用權 |
-  | 274 | ![聖誕頌歌艾德雷德塗裝（2天）](/images/h/h_Adelaide6.jpg) | [聖誕頌歌艾德雷德塗裝（2天）](/cn/Items/con_1018/){: .btn .btn--era5} | Experience Card | 使用後將獲得聖誕頌歌艾德雷德塗裝2天使用權 |
-  | 275 | ![聖誕頌歌－艾德雷德](/images/h/h_Adelaide6.jpg) | [聖誕頌歌－艾德雷德](/cn/Items/con_1025/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：聖誕頌歌－艾德雷德 |
-  | 276 | ![聯盟幣](/images/t/i_98.png) | [聯盟幣](/cn/Items/con_896/){: .btn .btn--era4} | VIP related | 可用於在聯盟商店中兌換道具 |
-  | 277 | ![聯盟資金](/images/t/i_40018.png) | [聯盟資金](/cn/Items/con_930/){: .btn .btn--era4} | Other | 捐獻獲得，可用於跨服聯盟戰中城池競價 |
-  | 278 | ![聯賽幣](/images/t/i_112.png) | [聯賽幣](/cn/Items/con_892/){: .btn .btn--era4} | VIP related | 聯賽幣，通過冠軍對決挑戰及其賽季獎勵獲得 |
-  | 279 | ![能源核心](/images/t/i_40019.png) | [能源核心](/cn/Items/con_931/){: .btn .btn--era5} | Battle Formation | 用於戰陣中陣點的啟用 |
-  | 280 |  | [自然綻放特效塗裝](/cn/Items/con_645/){: .btn .btn--era4} | Special Skin | 自然綻放喚醒後可解鎖該塗裝 |
-  | 281 |  | [自然綻放碎片](/cn/Items/con_977/){: .btn .btn--era4} | Exclusive piece | 上古戰役中遺留下來的自然綻放碎片，可用于喚醒德魯伊專屬自然綻放的潛力 |
-  | 282 | ![至尊月卡](/images/t/i_supermonth.png) | [至尊月卡](/cn/Items/con_883/){: .btn .btn--era5} | VIP related | 能夠不斷帶來財富的神祕物品，相傳只有最幸運的人才能獲得 |
-  | 283 | ![至死不渝－傑德特](/images/h/h_Jeddite2.jpg) | [至死不渝－傑德特](/cn/Items/con_1076/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：至死不渝－傑德特 |
-  | 284 | ![致命陰謀－山德魯](/images/h/h_Sandro4.jpg) | [致命陰謀－山德魯](/cn/Items/con_1051/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：致命陰謀－山德魯 |
-  | 285 | ![致命陰謀－羅德．哈特](/images/h/h_LordHaart3.jpg) | [致命陰謀－羅德．哈特](/cn/Items/con_1049/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：致命陰謀－羅德．哈特 |
-  | 286 | ![船長－凱瑟琳](/images/h/h_Catherine6.jpg) | [船長－凱瑟琳](/cn/Items/con_1029/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：船長－凱瑟琳 |
-  | 287 | ![艾拉西亞名將－姆拉克](/images/h/h_Mullich2.jpg) | [艾拉西亞名將－姆拉克](/cn/Items/con_1027/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：艾拉西亞名將－姆拉克 |
-  | 288 | ![英雄王頭像框（2天）](/images/a/avatarFrame_49.png) | [英雄王頭像框（2天）](/cn/Items/con_1010/){: .btn .btn--era5} | Experience Card | 使用後將獲得英雄王頭像框2天使用權 |
-  | 289 | ![荒野夜巡 食人魔](/images/u/ti_shirenmopifu.jpg) | [荒野夜巡 食人魔](/cn/Items/con_1987/){: .btn .btn--era5} | Unit Skin | 打開後獲得荒野夜巡 食人魔塗裝 |
-  | 290 | ![華麗的骰子](/images/t/i_39985.png) | [華麗的骰子](/cn/Items/con_891/){: .btn .btn--era4} | VIP related | 可用於探索神祕寶藏！ |
-  | 291 | ![萬能碎片寶箱](/images/t/i_907072.png) | [萬能碎片寶箱](/cn/Items/con_1458/){: .btn .btn--era4} | Unit Essence | 有 33% 的機率獲得一枚萬能碎片！ |
-  | 292 |  | [萬鈞特效塗裝](/cn/Items/con_656/){: .btn .btn--era5} | Special Skin | 萬鈞喚醒後可解鎖該塗裝 |
-  | 293 |  | [萬鈞碎片](/cn/Items/con_988/){: .btn .btn--era5} | Exclusive piece | 上古戰役中遺留下來的萬鈞碎片，可用於喚醒泰坦巨人專屬萬鈞的潛力 |
-  | 294 | ![落難王子－羅蘭德](/images/h/h_Roland3.jpg) | [落難王子－羅蘭德](/cn/Items/con_1033/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：落難王子－羅蘭德 |
-  | 295 |  | [藍晶符石](/cn/Items/con_716/){: .btn .btn--era3} | Material | 虛空中的神祕符石，可以較多提升兵團對技能的領悟力，使用後增加 150 點技能經驗 |
-  | 296 |  | [蛇吻特效塗裝](/cn/Items/con_659/){: .btn .btn--era4} | Special Skin | 蛇吻喚醒後可解鎖該塗裝 |
-  | 297 |  | [蛇吻碎片](/cn/Items/con_991/){: .btn .btn--era4} | Exclusive piece | 上古戰役中遺留下來的蛇吻碎片，可用於喚醒美杜莎專屬蛇吻的潛力 |
-  | 298 |  | [蠍狩特效塗裝](/cn/Items/con_660/){: .btn .btn--era4} | Special Skin | 蠍狩喚醒後可解鎖該塗裝 |
-  | 299 |  | [蠍狩碎片](/cn/Items/con_992/){: .btn .btn--era4} | Exclusive piece | 上古戰役中遺留下來的蠍狩碎片，可用於喚醒蠍尾獅專屬蠍狩的潛力 |
-  | 300 | ![血晶魔龍 紅龍塗裝](/images/u/ti_honglongdiancang.jpg) | [血晶魔龍 紅龍塗裝](/cn/Items/con_1996/){: .btn .btn--era5} | Unit Skin | 打開後獲得血晶魔龍 紅龍塗裝 |
-  | 301 | ![行動力](/images/t/i_111.png) | [行動力](/cn/Items/con_894/){: .btn .btn--era4} | VIP related | 探索更遠的地方！ |
-  | 302 | ![記憶結晶](/images/t/i_40033.png) | [記憶結晶](/cn/Items/con_941/){: .btn .btn--era5} | VIP related | 記憶結晶，可在記憶商店購買道具，可通過記憶提取獲得 |
-  | 303 | ![諸神眷顧（14天）](/images/a/avatarFrame_62.png) | [諸神眷顧（14天）](/cn/Items/con_1020/){: .btn .btn--era5} | Experience Card | 跨服諸神亞軍可獲得 |
-  | 304 | ![豐收之夜－羅蘭德](/images/h/h_Roland5.jpg) | [豐收之夜－羅蘭德](/cn/Items/con_1034/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：豐收之夜－羅蘭德 |
-  | 305 | ![貝幣](/images/t/i_40045.png) | [貝幣](/cn/Items/con_950/){: .btn .btn--era4} | Other | 港口來襲活動掉落的海洋貨幣，能夠在活動商店中換取珍貴獎勵。 |
-  | 306 | ![超大經驗藥水](/images/t/i_503.png) | [超大經驗藥水](/cn/Items/con_703/){: .btn .btn--era4} | EXP | 經過高度提純的經驗藥水，具有極強的魔力，吸收後可以增加 7,500 點兵團經驗。 |
-  | 307 | ![超大袋黃金](/images/t/i_512.png) | [超大袋黃金](/cn/Items/con_715/){: .btn .btn--era4} | EXP | 超大袋黃金，拆開可獲得 200,000 黃金。 |
-  | 308 | ![足球寶貝－珍妮](/images/h/h_Gem3.jpg) | [足球寶貝－珍妮](/cn/Items/con_1046/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：足球寶貝－珍妮 |
-  | 309 | ![跨服聯盟幣](/images/t/i_40017.png) | [跨服聯盟幣](/cn/Items/con_929/){: .btn .btn--era4} | Other | 跨服聯盟戰中獲得 |
-  | 310 | ![軍需幣](/images/t/i_40009.png) | [軍需幣](/cn/Items/con_921/){: .btn .btn--era4} | Other | 可以使用軍需幣進行配件製造 |
-  | 311 | ![迎春慶典－塞爾倫](/images/h/h_Xeron3.jpg) | [迎春慶典－塞爾倫](/cn/Items/con_1063/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：迎春慶典－塞爾倫 |
-  | 312 | ![迎春慶典－格魯](/images/h/h_Gelu7.jpg) | [迎春慶典－格魯](/cn/Items/con_1039/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：迎春慶典－格魯 |
-  | 313 | ![迪雅死神－羅德．哈特](/images/h/h_LordHaart4.jpg) | [迪雅死神－羅德．哈特](/cn/Items/con_1050/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：迪雅死神－羅德．哈特 |
-  | 314 | ![進攻技巧奧義](/images/t/i_7001.png) | [進攻技巧奧義](/cn/Items/con_1110/){: .btn .btn--era3} | Skill Essence | 記載了初級戰鬥奧義，可用於提高兵團的進攻技巧 |
-  | 315 | ![邪念凝結 邪魔女皮膚](/images/u/ti_xiemonvpifu2.jpg) | [邪念凝結 邪魔女皮膚](/cn/Items/con_1997/){: .btn .btn--era5} | Unit Skin | 打開後獲得邪念凝結 邪魔女皮膚 |
-  | 316 | ![邪惡鑄造石](/images/t/i_8005.png) | [邪惡鑄造石](/cn/Items/con_1127/){: .btn .btn--era5} | Holy Emblems Cast Stone | 邪惡鑄造石，邪惡類別的聖徽鑄造時必消耗的道具 |
-  | 317 | ![重傷技巧奧義](/images/t/i_7008.png) | [重傷技巧奧義](/cn/Items/con_1117/){: .btn .btn--era5} | Skill Essence | 記載了高階戰鬥奧義，可用於提高兵團的重傷技巧 |
-  | 318 | ![金幣紅包](/images/t/i_10042_redpacket.png) | [金幣紅包](/cn/Items/con_556/){: .btn .btn--era4} | Event related | 一個裝滿了金幣的紅包，打開試試你的手氣吧！（道具會在活動後刪除） |
-  | 319 | ![銀幣](/images/t/i_4003401.png) | [銀幣](/cn/Items/con_942/){: .btn .btn--era5} | VIP related |  |
-  | 320 | ![鍊金藥水](/images/t/i_40020.png) | [鍊金藥水](/cn/Items/con_932/){: .btn .btn--era5} | Other | 鍊金藥水，可在鍊金工坊中煉化材料獲得 |
-  | 321 | ![鑽石](/images/t/i_102.png) | [鑽石](/cn/Items/con_898/){: .btn .btn--era9} | VIP related | 鑽石，財富的象徵 |
-  | 322 | ![鑽石紅包](/images/t/i_10043_redpacket.png) | [鑽石紅包](/cn/Items/con_557/){: .btn .btn--era5} | Event related | 一個裝滿了鑽石的紅包，打開試試你的手氣吧！（道具會在活動後刪除） |
-  | 323 | ![閃避技巧奧義](/images/t/i_7005.png) | [閃避技巧奧義](/cn/Items/con_1114/){: .btn .btn--era4} | Skill Essence | 記載了中級戰鬥奧義，可用於提高兵團的閃避技巧 |
-  | 324 | ![阿修羅 索爾巨人皮膚](/images/u/ti_suoerjurenpifu.jpg) | [阿修羅 索爾巨人皮膚](/cn/Items/con_1989/){: .btn .btn--era5} | Unit Skin | 打開後獲得阿修羅 索爾巨人皮膚 |
-  | 325 | ![陳舊的地圖](/images/t/i_810101.png) | [陳舊的地圖](/cn/Items/con_1155/){: .btn .btn--era4} | GUILD_MAP_TREASURE | 一張陳舊的地圖，上面似乎被標記了某處藏東西的地點。用於在聯盟地圖中尋寶。 |
-  | 326 | ![雷霆戈爾貢 蠻牛塗裝](/images/u/ti_manniupifu.jpg) | [雷霆戈爾貢 蠻牛塗裝](/cn/Items/con_1998/){: .btn .btn--era5} | Unit Skin | 打開後獲得雷霆戈爾貢 蠻牛塗裝 |
-  | 327 | ![靈魂石](/images/t/i_40011.png) | [靈魂石](/cn/Items/con_923/){: .btn .btn--era4} | Other | 靈魂石，可在聖徽商店購買道具，可通過分解聖徽獲得 |
-  | 328 | ![靈魂結晶](/images/t/i_40012.png) | [靈魂結晶](/cn/Items/con_924/){: .btn .btn--era5} | Other | 靈魂結晶，可在幸運奪寶兌換商店中兌換聖徽，可通過幸運奪寶中獲得 |
-  | 329 | ![青耀涅槃 鳳凰塗裝](/images/u/ti_fenghuangpifu.jpg) | [青耀涅槃 鳳凰塗裝](/cn/Items/con_2002/){: .btn .btn--era5} | Unit Skin | 打開後獲得青耀涅槃 鳳凰塗裝 |
-  | 330 |  | [骰子](/cn/Items/con_946/){: .btn .btn--era4} | VIP related | 精美的骰子，可在奇跡之海活動中使用 |
-  | 331 | ![骷髏精華寶箱](/images/t/i_906004.png) | [骷髏精華寶箱](/cn/Items/con_1327/){: .btn .btn--era4} | Unit Essence | 有 50% 機率開出一枚維德尼娜碎片！ |
-  | 332 | ![體力](/images/t/i_104.png) | [體力](/cn/Items/con_900/){: .btn .btn--era4} | VIP related | 體力，挑戰劇情及地下城時會消耗體力 |
-  | 333 | ![魔力水晶](/images/t/i_40025.png) | [魔力水晶](/cn/Items/con_937/){: .btn .btn--era5} | Other | 魔力水晶，傳送門的能源核心，傳送門的四個組件之一 |
-  | 334 |  | [魔法水晶](/cn/Items/con_895/){: .btn .btn--era4} | VIP related | 可以在魔法行會中強化英雄魔法，通關地下城可獲得 |
-  | 335 | ![魔盒鑰匙](/images/t/i_40052.png) | [魔盒鑰匙](/cn/Items/con_957/){: .btn .btn--era4} | Other | 一把神秘的鑰匙，可用于開啟潘朵拉魔盒 |
-  | 336 | ![魔術師－艾斯卻爾](/images/h/h_Astral3.jpg) | [魔術師－艾斯卻爾](/cn/Items/con_1067/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：魔術師－艾斯卻爾 |
-  | 337 | ![魔龍座](/images/h/h_MutareDrake3.jpg) | [魔龍座](/cn/Items/con_1073/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：魔龍座－巨龍摩莉爾 |
-  | 338 | ![黃金](/images/t/i_103.png) | [黃金](/cn/Items/con_899/){: .btn .btn--era9} | VIP related | 黃金，閃爍著金色光芒，用途很多 |
-  | 339 | ![黃金公爵－肯洛．哈格](/images/h/h_CragHack5.jpg) | [黃金公爵－肯洛．哈格](/cn/Items/con_1057/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：黃金公爵－肯洛．哈格 |
-  | 340 | ![黃金武裝 天使塗裝](/images/u/ti_datianshidiancangkapifu.jpg) | [黃金武裝 天使塗裝](/cn/Items/con_1974/){: .btn .btn--era5} | Unit Skin | 打開後獲得黃金武裝 天使塗裝 |
-  | 341 |  | [黑帆](/cn/Items/con_2154/){: .btn .btn--era5} | Unit Skin | 打開後獲得黑帆 訓鯊師塗裝 |
-  | 342 | ![黑暗侍從 泰坦塗裝](/images/u/ti_taitanpifu.jpg) | [黑暗侍從 泰坦塗裝](/cn/Items/con_2131/){: .btn .btn--era5} | Unit Skin | 打開後獲得黑暗侍從 泰坦塗裝 |
-  | 343 | ![黑曜冥龍 骨龍塗裝](/images/u/ti_gulongyinengpifu.jpg) | [黑曜冥龍 骨龍塗裝](/cn/Items/con_1984/){: .btn .btn--era5} | Unit Skin | 打開後獲得黑曜冥龍 骨龍塗裝 |
-  | 344 | ![龍王神力](/images/h/h_Astral4.jpg) | [龍王神力](/cn/Items/con_1068/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：龍王神力 艾斯卻爾 |
-  | 345 | ![龍血晶](/images/t/i_116.png) | [龍血晶](/cn/Items/con_879/){: .btn .btn--era5} | Other | 一堆龍血晶，可用於兵營系統生產的 4 級資源 |
-  | 346 | ![龍鋼](/images/t/i_115.png) | [龍鋼](/cn/Items/con_880/){: .btn .btn--era5} | Other | 一堆龍鋼，可用於兵營系統生產的 3 級資源 |
-  | 347 | ![龍鋼禮盒](/images/t/i_907004.png) | [龍鋼禮盒](/cn/Items/con_729/){: .btn .btn--era5} | EXP | 裝有大量龍鋼的禮盒，使用後獲得 1,000 龍鋼。 |
+  | 209 | ![熔火源泉 炎魔皮膚](/images/u/ti_yanmopifu.jpg) | [熔火源泉 炎魔皮膚](/cn/Items/con_1991/){: .btn .btn--era5} | Unit Skin | 打開後獲得熔火源泉 炎魔皮膚 |
+  | 210 | ![父子情深－羅蘭德](/images/h/h_Roland9.jpg) | [父子情深－羅蘭德](/cn/Items/con_1036/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：父子情深－羅蘭德 |
+  | 211 | ![特權點](/images/t/i_310001.png) | [特權點](/cn/Items/con_820/){: .btn .btn--era4} | Other | 用來解鎖或提升特權能力，可在每日任務活躍度寶箱中獲得 |
+  | 212 |  | [狂熱屠戮](/cn/Items/con_983/){: .btn .btn--era5} | Exclusive piece | 上古戰役中遺留下來的狂熱屠戮碎片，可用于喚醒狂戰士專屬狂熱屠戮的潛力 |
+  | 213 |  | [狂熱屠戮特效塗裝](/cn/Items/con_651/){: .btn .btn--era5} | Special Skin | 狂熱屠戮喚醒後可解鎖該塗裝 |
+  | 214 |  | [獵影逐風碎片](/cn/Items/con_914/){: .btn .btn--era4} | Exclusive piece | 上古戰役中遺留下來的專屬碎片，可用於喚醒射手兵團通用專屬獵影逐風的潛力 |
+  | 215 | ![王室婚禮凱薩琳塗裝頭像（2天）](/images/h/h_Catherine4.jpg) | [王室婚禮凱薩琳塗裝頭像（2天）](/cn/Items/con_1015/){: .btn .btn--era5} | Experience Card | 使用後將獲得王室婚禮凱薩琳塗裝頭像2天使用權 |
+  | 216 | ![王室婚禮凱薩琳塗裝（2天）](/images/h/h_Catherine8.jpg) | [王室婚禮凱薩琳塗裝（2天）](/cn/Items/con_1017/){: .btn .btn--era5} | Experience Card | 使用後將獲得王室婚禮凱薩琳塗裝2天使用權 |
+  | 217 | ![王室婚禮－凱瑟琳](/images/h/h_Catherine7.jpg) | [王室婚禮－凱瑟琳](/cn/Items/con_1030/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：王室婚禮－凱瑟琳 |
+  | 218 | ![王室婚禮－羅蘭德](/images/h/h_Roland7.jpg) | [王室婚禮－羅蘭德](/cn/Items/con_1035/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：王室婚禮－羅蘭德 |
+  | 219 | ![玩家經驗](/images/t/i_101.png) | [玩家經驗](/cn/Items/con_897/){: .btn .btn--era4} | VIP related | 玩家經驗，誰都想要 |
+  | 220 | ![玩家經驗藥水](/images/t/i_501.png) | [玩家經驗藥水](/cn/Items/con_676/){: .btn .btn--era2} | EXP | 鳳凰升星的必備材料，鳳凰是 SR 資質兵團 |
+  | 221 | ![瑞格納金幣](/images/t/i_40046.png) | [瑞格納金幣](/cn/Items/con_951/){: .btn .btn--era5} | Other | 港口來襲活動掉落道具，用於召喚頭目進行挑戰 |
+  | 222 | ![瑞格納銀幣](/images/t/i_40047.png) | [瑞格納銀幣](/cn/Items/con_952/){: .btn .btn--era5} | Other | 港口來襲活動掉落道具，用於召喚頭目進行挑戰 |
+  | 223 | ![瑞格納銅幣](/images/t/i_40048.png) | [瑞格納銅幣](/cn/Items/con_953/){: .btn .btn--era5} | Other | 港口來襲活動掉落道具，用於召喚頭目進行挑戰 |
+  | 224 |  | [璀璨之翼特效塗裝](/cn/Items/con_644/){: .btn .btn--era5} | Special Skin | 璀璨之翼喚醒後可解鎖該塗裝 |
+  | 225 |  | [璀璨之翼碎片](/cn/Items/con_976/){: .btn .btn--era5} | Exclusive piece | 上古戰役中遺留下來的璀璨之翼碎片，可用于喚醒綠龍專屬璀璨之翼的潛力 |
+  | 226 |  | [瓦威恩特效塗裝](/cn/Items/con_664/){: .btn .btn--era4} | Special Skin | 瓦威恩喚醒後可解鎖該塗裝 |
+  | 227 |  | [瓦威恩碎片](/cn/Items/con_996/){: .btn .btn--era4} | Exclusive piece | 上古戰役中遺留下來的瓦威恩碎片，可以用於喚醒雙足飛龍專屬瓦威恩的潛力 |
+  | 228 | ![瓶中魔鬼－索姆拉](/images/h/h_Solmyr2.jpg) | [瓶中魔鬼－索姆拉](/cn/Items/con_1065/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：瓶中魔鬼－索姆拉 |
+  | 229 | ![生存技巧奧義](/images/t/i_7002.png) | [生存技巧奧義](/cn/Items/con_1111/){: .btn .btn--era3} | Skill Essence | 記載了初級戰鬥奧義，可用於提高兵團的生存技巧 |
+  | 230 | ![異端學徒－維德尼娜](/images/h/h_Vidomina3.jpg) | [異端學徒－維德尼娜](/cn/Items/con_1052/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：異端學徒－維德尼娜 |
+  | 231 | ![發條巨獸 β 傀儡龍](/images/u/ti_kuileilongpifu2.jpg) | [發條巨獸 β 傀儡龍](/cn/Items/con_1994/){: .btn .btn--era5} | Unit Skin | 開啟後獲得發條巨獸 β 傀儡龍塗裝 |
+  | 232 |  | [白晶符石](/cn/Items/con_707/){: .btn .btn--era1} | Material | 虛空中的神祕符石，可以略微提升兵團對技能的領悟力，使用後增加 10 點技能經驗 |
+  | 233 | ![皈依聖徒—僧侶塗裝](/images/u/ti_senglvshengdan.jpg) | [皈依聖徒—僧侶塗裝](/cn/Items/con_1972/){: .btn .btn--era5} | Unit Skin | 開啟後獲得皈依聖徒—僧侶塗裝 |
+  | 234 | ![皈依聖徒僧侶塗裝頭像（2天）](/images/u/ti_senglvshengdan.jpg) | [皈依聖徒僧侶塗裝頭像（2天）](/cn/Items/con_1012/){: .btn .btn--era5} | Experience Card | 使用後將獲得皈依聖徒僧侶塗裝頭像2天使用權 |
+  | 235 | ![皈依聖徒僧侶塗裝（2天）](/images/u/ti_senglvshengdan.jpg) | [皈依聖徒僧侶塗裝（2天）](/cn/Items/con_1014/){: .btn .btn--era5} | Experience Card | 使用後將獲得皈依聖徒僧侶塗裝2天使用權 |
+  | 236 | ![皈聖信徒－審判官塗裝](/images/u/ti_shenpanguanpifu2.jpg) | [皈聖信徒－審判官塗裝](/cn/Items/con_1976/){: .btn .btn--era5} | Unit Skin | 開啟後獲得皈聖信徒－審判官塗裝 |
+  | 237 |  | [瞬移術](/cn/Items/con_944/){: .btn .btn--era4} | Other | 可瞬間移動，可在奇跡之海活動中使用 |
+  | 238 | ![社會名流－凱瑟琳](/images/h/h_Catherine8.jpg) | [社會名流－凱瑟琳](/cn/Items/con_1031/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：社會名流－凱瑟琳 |
+  | 239 | ![祈願寶典](/images/t/i_40005.png) | [祈願寶典](/cn/Items/con_917/){: .btn .btn--era5} | Other | 吟唱其中的咒文可以喚醒法術源泉，獲得一次免費法術祈願的機會 |
+  | 240 | ![祈願靈石](/images/t/artifact_41005.png) | [祈願靈石](/cn/Items/con_971/){: .btn .btn--era5} | Other | 由術士們精心提煉而成的靈石，專門使用於法術祈願。 |
+  | 241 | ![神力結晶](/images/t/i_godStone.png) | [神力結晶](/cn/Items/con_927/){: .btn .btn--era5} | Other | 神力凝練而成的晶體，可以在跨服商店兌換珍稀物資，跨服諸神中可以獲得。 |
+  | 242 | ![神水](/images/t/i_40054.png) | [神水](/cn/Items/con_959/){: .btn .btn--era5} | Other | 神像試煉產出的資源，可以在商店購買物品 |
+  | 243 | ![神聖聯盟－凱瑟琳](/images/h/h_Catherine10.jpg) | [神聖聯盟－凱瑟琳](/cn/Items/con_1032/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：神聖聯盟－凱瑟琳 |
+  | 244 | ![神聖聯盟－格魯](/images/h/h_Gelu9.jpg) | [神聖聯盟－格魯](/cn/Items/con_1040/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：神聖聯盟－格魯 |
+  | 245 | ![稀有材料寶箱](/images/t/i_304001.png) | [稀有材料寶箱](/cn/Items/con_757/){: .btn .btn--era4} | Material Chest | 可以根據玩家等級開出對應的裝備進階稀有材料 |
+  | 246 |  | [立減券](/cn/Items/con_945/){: .btn .btn--era4} | Other | 商品立減券，可在奇跡之海活動中使用 |
+  | 247 | ![競技幣](/images/t/i_107.png) | [競技幣](/cn/Items/con_903/){: .btn .btn--era9} | VIP related | 競技幣，競技場挑戰及每日結算可獲得 |
+  | 248 | ![箭矢](/images/t/i_arrow.png) | [箭矢](/cn/Items/con_890/){: .btn .btn--era4} | VIP related | 木精靈慣用的箭矢 |
+  | 249 | ![簽到幣](/images/t/i_40016.png) | [簽到幣](/cn/Items/con_928/){: .btn .btn--era4} | Other | 稀有貨幣，可以在簽到商店中兌換各種道具 |
+  | 250 | ![粉絲券](/images/t/i_120.png) | [粉絲券](/cn/Items/con_908/){: .btn .btn--era9} | VIP related | 粉絲券 |
+  | 251 | ![精力](/images/t/i_40049.png) | [精力](/cn/Items/con_954/){: .btn .btn--era5} | Other | 港口來襲活動中挑戰頭目所消耗的道具 |
+  | 252 | ![精密零件](/images/t/i_40008.png) | [精密零件](/cn/Items/con_920/){: .btn .btn--era4} | Other | 精密零件，用於強化配件的材料，可通過分解配件獲得 |
+  | 253 | ![糖果女巫](/images/h/h_Vidomina5.jpg) | [糖果女巫](/cn/Items/con_1053/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：糖果女巫－維德尼娜 |
+  | 254 | ![紀念幣](/images/t/i_39970.png) | [紀念幣](/cn/Items/con_877/){: .btn .btn--era5} | Other | 諸神之戰的參賽者證明 |
+  | 255 |  | [紀念石像](/cn/Items/con_947/){: .btn .btn--era4} | Other | 可用來兌換復活節禮品 |
+  | 256 |  | [紫晶符石](/cn/Items/con_720/){: .btn .btn--era4} | Material | 虛空中的神祕符石，可以大幅提升兵團對技能的領悟力，使用後增加 450 點技能經驗 |
+  | 257 |  | [綠晶符石](/cn/Items/con_711/){: .btn .btn--era2} | Material | 虛空中的神祕符石，可以小幅提升兵團對技能的領悟力，使用後增加 50 點技能經驗 |
+  | 258 | ![維京之道 狂戰士塗裝](/images/u/ti_kuangzhanshipifu.jpg) | [維京之道 狂戰士塗裝](/cn/Items/con_1988/){: .btn .btn--era5} | Unit Skin | 打開後獲得維京之道 狂戰士塗裝 |
+  | 259 | ![維京戰神－肯洛．哈格](/images/h/h_CragHack3.jpg) | [維京戰神－肯洛．哈格](/cn/Items/con_1056/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：維京戰神－肯洛．哈格 |
+  | 260 | ![維爾寧守護者－羅伊德](/images/h/h_Ryland4.jpg) | [維爾寧守護者－羅伊德](/cn/Items/con_1045/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：維爾寧守護者－羅伊德 |
+  | 261 | ![縛能魔瓶（中）](/images/t/i_521.png) | [縛能魔瓶（中）](/cn/Items/con_725/){: .btn .btn--era4} | EXP | 盛有大量寶物的精華的魔瓶，使用後獲得 20 個寶物精華 |
+  | 262 | ![縛能魔瓶（大）](/images/t/i_522.png) | [縛能魔瓶（大）](/cn/Items/con_726/){: .btn .btn--era4} | EXP | 盛有巨量寶物的精華的魔瓶，使用後獲得 30 個寶物精華 |
+  | 263 | ![縛能魔瓶（小）](/images/t/i_520.png) | [縛能魔瓶（小）](/cn/Items/con_724/){: .btn .btn--era4} | EXP | 盛有少量寶物的精華的魔瓶，使用後獲得 10 個寶物精華 |
+  | 264 | ![織愛女神－薩麗爾](/images/h/h_Ciele3.jpg) | [織愛女神－薩麗爾](/cn/Items/con_1061/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：織愛女神－薩麗爾 |
+  | 265 |  | [纏布特效塗裝](/cn/Items/con_649/){: .btn .btn--era4} | Special Skin | 纏布喚醒後可解鎖該塗裝 |
+  | 266 |  | [纏布碎片](/cn/Items/con_981/){: .btn .btn--era4} | Exclusive piece | 上古戰役中遺留下來的纏布碎片，可用於喚醒木乃伊專屬纏布的潛力 |
+  | 267 | ![翡翠精靈－木精靈塗裝](/images/u/ti_mujinglingpifu2.jpg) | [翡翠精靈－木精靈塗裝](/cn/Items/con_1979/){: .btn .btn--era5} | Unit Skin | 開啟後獲得翡翠精靈－木精靈塗裝 |
+  | 268 |  | [聖劍杜蘭德爾特效塗裝](/cn/Items/con_641/){: .btn .btn--era5} | Special Skin | 聖劍杜蘭德爾喚醒後可解鎖該塗裝 |
+  | 269 |  | [聖劍杜蘭德爾碎片](/cn/Items/con_973/){: .btn .btn--era5} | Exclusive piece | 上古戰役中遺留下來的聖劍杜蘭德爾碎片，可用于喚醒天使專屬聖劍杜蘭德爾的潛力 |
+  | 270 |  | [聖城幣](/cn/Items/con_2161/){: .btn .btn--era5} | Other | 聖城攻襲產出的代幣，象徵著戰功和榮耀 |
+  | 271 |  | [聖堂輝光旗魂](/cn/Items/con_975/){: .btn .btn--era6} | Exclusive piece | 上古戰役中遺留下來的平原城堡旗魂，可用于喚醒審判官戰旗聖堂輝光的潛力 |
+  | 272 | ![聖誕精靈](/images/h/h_MutareDrake5.jpg) | [聖誕精靈](/cn/Items/con_1074/){: .btn .btn--era5} | Special Skin | 與雪花嬉戲的聖誕精靈 |
+  | 273 | ![聖誕頌歌](/images/h/h_CragHack7.jpg) | [聖誕頌歌](/cn/Items/con_1058/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：聖誕頌歌－肯洛．哈格 |
+  | 274 | ![聖誕頌歌艾德雷德塗裝頭像（2天）](/images/h/h_Adelaide5.jpg) | [聖誕頌歌艾德雷德塗裝頭像（2天）](/cn/Items/con_1016/){: .btn .btn--era5} | Experience Card | 使用後將獲得聖誕頌歌艾德雷德塗裝頭像2天使用權 |
+  | 275 | ![聖誕頌歌艾德雷德塗裝（2天）](/images/h/h_Adelaide6.jpg) | [聖誕頌歌艾德雷德塗裝（2天）](/cn/Items/con_1018/){: .btn .btn--era5} | Experience Card | 使用後將獲得聖誕頌歌艾德雷德塗裝2天使用權 |
+  | 276 | ![聖誕頌歌－艾德雷德](/images/h/h_Adelaide6.jpg) | [聖誕頌歌－艾德雷德](/cn/Items/con_1025/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：聖誕頌歌－艾德雷德 |
+  | 277 | ![聯盟幣](/images/t/i_98.png) | [聯盟幣](/cn/Items/con_896/){: .btn .btn--era4} | VIP related | 可用於在聯盟商店中兌換道具 |
+  | 278 | ![聯盟資金](/images/t/i_40018.png) | [聯盟資金](/cn/Items/con_930/){: .btn .btn--era4} | Other | 捐獻獲得，可用於跨服聯盟戰中城池競價 |
+  | 279 | ![聯賽幣](/images/t/i_112.png) | [聯賽幣](/cn/Items/con_892/){: .btn .btn--era4} | VIP related | 聯賽幣，通過冠軍對決挑戰及其賽季獎勵獲得 |
+  | 280 | ![能源核心](/images/t/i_40019.png) | [能源核心](/cn/Items/con_931/){: .btn .btn--era5} | Battle Formation | 用於戰陣中陣點的啟用 |
+  | 281 |  | [自然綻放特效塗裝](/cn/Items/con_645/){: .btn .btn--era4} | Special Skin | 自然綻放喚醒後可解鎖該塗裝 |
+  | 282 |  | [自然綻放碎片](/cn/Items/con_977/){: .btn .btn--era4} | Exclusive piece | 上古戰役中遺留下來的自然綻放碎片，可用于喚醒德魯伊專屬自然綻放的潛力 |
+  | 283 | ![至尊月卡](/images/t/i_supermonth.png) | [至尊月卡](/cn/Items/con_883/){: .btn .btn--era5} | VIP related | 能夠不斷帶來財富的神祕物品，相傳只有最幸運的人才能獲得 |
+  | 284 | ![至死不渝－傑德特](/images/h/h_Jeddite2.jpg) | [至死不渝－傑德特](/cn/Items/con_1076/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：至死不渝－傑德特 |
+  | 285 | ![致命陰謀－山德魯](/images/h/h_Sandro4.jpg) | [致命陰謀－山德魯](/cn/Items/con_1051/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：致命陰謀－山德魯 |
+  | 286 | ![致命陰謀－羅德．哈特](/images/h/h_LordHaart3.jpg) | [致命陰謀－羅德．哈特](/cn/Items/con_1049/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：致命陰謀－羅德．哈特 |
+  | 287 | ![船長－凱瑟琳](/images/h/h_Catherine6.jpg) | [船長－凱瑟琳](/cn/Items/con_1029/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：船長－凱瑟琳 |
+  | 288 | ![艾拉西亞名將－姆拉克](/images/h/h_Mullich2.jpg) | [艾拉西亞名將－姆拉克](/cn/Items/con_1027/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：艾拉西亞名將－姆拉克 |
+  | 289 | ![英雄王頭像框（2天）](/images/a/avatarFrame_49.png) | [英雄王頭像框（2天）](/cn/Items/con_1010/){: .btn .btn--era5} | Experience Card | 使用後將獲得英雄王頭像框2天使用權 |
+  | 290 | ![荒野夜巡 食人魔](/images/u/ti_shirenmopifu.jpg) | [荒野夜巡 食人魔](/cn/Items/con_1987/){: .btn .btn--era5} | Unit Skin | 打開後獲得荒野夜巡 食人魔塗裝 |
+  | 291 | ![華麗的骰子](/images/t/i_39985.png) | [華麗的骰子](/cn/Items/con_891/){: .btn .btn--era4} | VIP related | 可用於探索神祕寶藏！ |
+  | 292 | ![萬能碎片寶箱](/images/t/i_907072.png) | [萬能碎片寶箱](/cn/Items/con_1458/){: .btn .btn--era4} | Unit Essence | 有 33% 的機率獲得一枚萬能碎片！ |
+  | 293 |  | [萬鈞特效塗裝](/cn/Items/con_656/){: .btn .btn--era5} | Special Skin | 萬鈞喚醒後可解鎖該塗裝 |
+  | 294 |  | [萬鈞碎片](/cn/Items/con_988/){: .btn .btn--era5} | Exclusive piece | 上古戰役中遺留下來的萬鈞碎片，可用於喚醒泰坦巨人專屬萬鈞的潛力 |
+  | 295 | ![落難王子－羅蘭德](/images/h/h_Roland3.jpg) | [落難王子－羅蘭德](/cn/Items/con_1033/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：落難王子－羅蘭德 |
+  | 296 |  | [藍晶符石](/cn/Items/con_716/){: .btn .btn--era3} | Material | 虛空中的神祕符石，可以較多提升兵團對技能的領悟力，使用後增加 150 點技能經驗 |
+  | 297 |  | [蛇吻特效塗裝](/cn/Items/con_659/){: .btn .btn--era4} | Special Skin | 蛇吻喚醒後可解鎖該塗裝 |
+  | 298 |  | [蛇吻碎片](/cn/Items/con_991/){: .btn .btn--era4} | Exclusive piece | 上古戰役中遺留下來的蛇吻碎片，可用於喚醒美杜莎專屬蛇吻的潛力 |
+  | 299 |  | [蠍狩特效塗裝](/cn/Items/con_660/){: .btn .btn--era4} | Special Skin | 蠍狩喚醒後可解鎖該塗裝 |
+  | 300 |  | [蠍狩碎片](/cn/Items/con_992/){: .btn .btn--era4} | Exclusive piece | 上古戰役中遺留下來的蠍狩碎片，可用於喚醒蠍尾獅專屬蠍狩的潛力 |
+  | 301 | ![血晶魔龍 紅龍塗裝](/images/u/ti_honglongdiancang.jpg) | [血晶魔龍 紅龍塗裝](/cn/Items/con_1996/){: .btn .btn--era5} | Unit Skin | 打開後獲得血晶魔龍 紅龍塗裝 |
+  | 302 | ![行動力](/images/t/i_111.png) | [行動力](/cn/Items/con_894/){: .btn .btn--era4} | VIP related | 探索更遠的地方！ |
+  | 303 | ![記憶結晶](/images/t/i_40033.png) | [記憶結晶](/cn/Items/con_941/){: .btn .btn--era5} | VIP related | 記憶結晶，可在記憶商店購買道具，可通過記憶提取獲得 |
+  | 304 | ![諸神眷顧（14天）](/images/a/avatarFrame_62.png) | [諸神眷顧（14天）](/cn/Items/con_1020/){: .btn .btn--era5} | Experience Card | 跨服諸神亞軍可獲得 |
+  | 305 | ![豐收之夜－羅蘭德](/images/h/h_Roland5.jpg) | [豐收之夜－羅蘭德](/cn/Items/con_1034/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：豐收之夜－羅蘭德 |
+  | 306 | ![貝幣](/images/t/i_40045.png) | [貝幣](/cn/Items/con_950/){: .btn .btn--era4} | Other | 港口來襲活動掉落的海洋貨幣，能夠在活動商店中換取珍貴獎勵。 |
+  | 307 | ![超大經驗藥水](/images/t/i_503.png) | [超大經驗藥水](/cn/Items/con_703/){: .btn .btn--era4} | EXP | 經過高度提純的經驗藥水，具有極強的魔力，吸收後可以增加 7,500 點兵團經驗。 |
+  | 308 | ![超大袋黃金](/images/t/i_512.png) | [超大袋黃金](/cn/Items/con_715/){: .btn .btn--era4} | EXP | 超大袋黃金，拆開可獲得 200,000 黃金。 |
+  | 309 | ![足球寶貝－珍妮](/images/h/h_Gem3.jpg) | [足球寶貝－珍妮](/cn/Items/con_1046/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：足球寶貝－珍妮 |
+  | 310 | ![跨服聯盟幣](/images/t/i_40017.png) | [跨服聯盟幣](/cn/Items/con_929/){: .btn .btn--era4} | Other | 跨服聯盟戰中獲得 |
+  | 311 | ![軍需幣](/images/t/i_40009.png) | [軍需幣](/cn/Items/con_921/){: .btn .btn--era4} | Other | 可以使用軍需幣進行配件製造 |
+  | 312 | ![迎春慶典－塞爾倫](/images/h/h_Xeron3.jpg) | [迎春慶典－塞爾倫](/cn/Items/con_1063/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：迎春慶典－塞爾倫 |
+  | 313 | ![迎春慶典－格魯](/images/h/h_Gelu7.jpg) | [迎春慶典－格魯](/cn/Items/con_1039/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：迎春慶典－格魯 |
+  | 314 | ![迪雅死神－羅德．哈特](/images/h/h_LordHaart4.jpg) | [迪雅死神－羅德．哈特](/cn/Items/con_1050/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：迪雅死神－羅德．哈特 |
+  | 315 | ![進攻技巧奧義](/images/t/i_7001.png) | [進攻技巧奧義](/cn/Items/con_1110/){: .btn .btn--era3} | Skill Essence | 記載了初級戰鬥奧義，可用於提高兵團的進攻技巧 |
+  | 316 | ![邪念凝結 邪魔女皮膚](/images/u/ti_xiemonvpifu2.jpg) | [邪念凝結 邪魔女皮膚](/cn/Items/con_1997/){: .btn .btn--era5} | Unit Skin | 打開後獲得邪念凝結 邪魔女皮膚 |
+  | 317 | ![邪惡鑄造石](/images/t/i_8005.png) | [邪惡鑄造石](/cn/Items/con_1127/){: .btn .btn--era5} | Holy Emblems Cast Stone | 邪惡鑄造石，邪惡類別的聖徽鑄造時必消耗的道具 |
+  | 318 | ![重傷技巧奧義](/images/t/i_7008.png) | [重傷技巧奧義](/cn/Items/con_1117/){: .btn .btn--era5} | Skill Essence | 記載了高階戰鬥奧義，可用於提高兵團的重傷技巧 |
+  | 319 | ![金幣紅包](/images/t/i_10042_redpacket.png) | [金幣紅包](/cn/Items/con_556/){: .btn .btn--era4} | Event related | 一個裝滿了金幣的紅包，打開試試你的手氣吧！（道具會在活動後刪除） |
+  | 320 |  | [金條](/cn/Items/con_2189/){: .btn .btn--era4} | Other | 地獄往事活動中通關探索戰場遺址可獲得，可在地獄往事活動商店中兌換獎勵 |
+  | 321 | ![銀幣](/images/t/i_4003401.png) | [銀幣](/cn/Items/con_942/){: .btn .btn--era5} | VIP related |  |
+  | 322 | ![鍊金藥水](/images/t/i_40020.png) | [鍊金藥水](/cn/Items/con_932/){: .btn .btn--era5} | Other | 鍊金藥水，可在鍊金工坊中煉化材料獲得 |
+  | 323 | ![鑽石](/images/t/i_102.png) | [鑽石](/cn/Items/con_898/){: .btn .btn--era9} | VIP related | 鑽石，財富的象徵 |
+  | 324 | ![鑽石紅包](/images/t/i_10043_redpacket.png) | [鑽石紅包](/cn/Items/con_557/){: .btn .btn--era5} | Event related | 一個裝滿了鑽石的紅包，打開試試你的手氣吧！（道具會在活動後刪除） |
+  | 325 | ![閃避技巧奧義](/images/t/i_7005.png) | [閃避技巧奧義](/cn/Items/con_1114/){: .btn .btn--era4} | Skill Essence | 記載了中級戰鬥奧義，可用於提高兵團的閃避技巧 |
+  | 326 | ![阿修羅 索爾巨人皮膚](/images/u/ti_suoerjurenpifu.jpg) | [阿修羅 索爾巨人皮膚](/cn/Items/con_1989/){: .btn .btn--era5} | Unit Skin | 打開後獲得阿修羅 索爾巨人皮膚 |
+  | 327 | ![陳舊的地圖](/images/t/i_810101.png) | [陳舊的地圖](/cn/Items/con_1155/){: .btn .btn--era4} | GUILD_MAP_TREASURE | 一張陳舊的地圖，上面似乎被標記了某處藏東西的地點。用於在聯盟地圖中尋寶。 |
+  | 328 | ![雷霆戈爾貢 蠻牛塗裝](/images/u/ti_manniupifu.jpg) | [雷霆戈爾貢 蠻牛塗裝](/cn/Items/con_1998/){: .btn .btn--era5} | Unit Skin | 打開後獲得雷霆戈爾貢 蠻牛塗裝 |
+  | 329 | ![靈魂石](/images/t/i_40011.png) | [靈魂石](/cn/Items/con_923/){: .btn .btn--era4} | Other | 靈魂石，可在聖徽商店購買道具，可通過分解聖徽獲得 |
+  | 330 | ![靈魂結晶](/images/t/i_40012.png) | [靈魂結晶](/cn/Items/con_924/){: .btn .btn--era5} | Other | 靈魂結晶，可在幸運奪寶兌換商店中兌換聖徽，可通過幸運奪寶中獲得 |
+  | 331 | ![青耀涅槃 鳳凰塗裝](/images/u/ti_fenghuangpifu.jpg) | [青耀涅槃 鳳凰塗裝](/cn/Items/con_2002/){: .btn .btn--era5} | Unit Skin | 打開後獲得青耀涅槃 鳳凰塗裝 |
+  | 332 |  | [骰子](/cn/Items/con_946/){: .btn .btn--era4} | VIP related | 精美的骰子，可在奇跡之海活動中使用 |
+  | 333 | ![骷髏精華寶箱](/images/t/i_906004.png) | [骷髏精華寶箱](/cn/Items/con_1327/){: .btn .btn--era4} | Unit Essence | 有 50% 機率開出一枚維德尼娜碎片！ |
+  | 334 | ![體力](/images/t/i_104.png) | [體力](/cn/Items/con_900/){: .btn .btn--era4} | VIP related | 體力，挑戰劇情及地下城時會消耗體力 |
+  | 335 | ![魔力水晶](/images/t/i_40025.png) | [魔力水晶](/cn/Items/con_937/){: .btn .btn--era5} | Other | 魔力水晶，傳送門的能源核心，傳送門的四個組件之一 |
+  | 336 |  | [魔法水晶](/cn/Items/con_895/){: .btn .btn--era4} | VIP related | 可以在魔法行會中強化英雄魔法，通關地下城可獲得 |
+  | 337 | ![魔盒鑰匙](/images/t/i_40052.png) | [魔盒鑰匙](/cn/Items/con_957/){: .btn .btn--era4} | Other | 一把神秘的鑰匙，可用于開啟潘朵拉魔盒 |
+  | 338 | ![魔術師－艾斯卻爾](/images/h/h_Astral3.jpg) | [魔術師－艾斯卻爾](/cn/Items/con_1067/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：魔術師－艾斯卻爾 |
+  | 339 | ![魔龍座](/images/h/h_MutareDrake3.jpg) | [魔龍座](/cn/Items/con_1073/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：魔龍座－巨龍摩莉爾 |
+  | 340 | ![黃金](/images/t/i_103.png) | [黃金](/cn/Items/con_899/){: .btn .btn--era9} | VIP related | 黃金，閃爍著金色光芒，用途很多 |
+  | 341 | ![黃金公爵－肯洛．哈格](/images/h/h_CragHack5.jpg) | [黃金公爵－肯洛．哈格](/cn/Items/con_1057/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：黃金公爵－肯洛．哈格 |
+  | 342 | ![黃金武裝 天使塗裝](/images/u/ti_datianshidiancangkapifu.jpg) | [黃金武裝 天使塗裝](/cn/Items/con_1974/){: .btn .btn--era5} | Unit Skin | 打開後獲得黃金武裝 天使塗裝 |
+  | 343 |  | [黑帆](/cn/Items/con_2154/){: .btn .btn--era5} | Unit Skin | 打開後獲得黑帆 訓鯊師塗裝 |
+  | 344 | ![黑暗侍從 泰坦塗裝](/images/u/ti_taitanpifu.jpg) | [黑暗侍從 泰坦塗裝](/cn/Items/con_2131/){: .btn .btn--era5} | Unit Skin | 打開後獲得黑暗侍從 泰坦塗裝 |
+  | 345 | ![黑曜冥龍 骨龍塗裝](/images/u/ti_gulongyinengpifu.jpg) | [黑曜冥龍 骨龍塗裝](/cn/Items/con_1984/){: .btn .btn--era5} | Unit Skin | 打開後獲得黑曜冥龍 骨龍塗裝 |
+  | 346 | ![龍王神力](/images/h/h_Astral4.jpg) | [龍王神力](/cn/Items/con_1068/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：龍王神力 艾斯卻爾 |
+  | 347 | ![龍血晶](/images/t/i_116.png) | [龍血晶](/cn/Items/con_879/){: .btn .btn--era5} | Other | 一堆龍血晶，可用於兵營系統生產的 4 級資源 |
+  | 348 | ![龍鋼](/images/t/i_115.png) | [龍鋼](/cn/Items/con_880/){: .btn .btn--era5} | Other | 一堆龍鋼，可用於兵營系統生產的 3 級資源 |
+  | 349 | ![龍鋼禮盒](/images/t/i_907004.png) | [龍鋼禮盒](/cn/Items/con_729/){: .btn .btn--era5} | EXP | 裝有大量龍鋼的禮盒，使用後獲得 1,000 龍鋼。 |

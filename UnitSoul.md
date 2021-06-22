@@ -2,7 +2,7 @@
 title: "Item - Unit Soul"
 permalink: /UnitSoul/
 excerpt: "Unit Soul in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Unit Soul.md"
 toc: false
@@ -57,7 +57,7 @@ classes: wide
   | 43 | ![泰坦巨人](/images/u/ti_taitan.jpg) | [泰坦巨人](/cn/Items/unt_241/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚泰坦巨人，同時也是泰坦巨人升星進化的必備材料 |
   | 44 | ![海后](/images/u/ti_haihou.jpg) | [海后](/cn/Items/unt_279/){: .btn .btn--era6} | Unit Soul | 收集 80 個靈魂碎片，可以召喚海后，同時也是海后升星進化的必備材料 |
   | 45 | ![海靈](/images/u/ti_haiyuansu.jpg) | [海靈](/cn/Items/unt_275/){: .btn .btn--era3} | Unit Soul | 收集 10 個靈魂碎片，可以召喚海靈，同時也是海靈升星進化的必備材料 |
-  | 46 | ![炎魔](/images/u/ti_yanmo.jpg) | [炎魔](/cn/Items/unt_234/){: .btn .btn--era6} | Unit Soul | 收集 80 個靈魂碎片，可以召喚炎魔，炎魔是 指揮官 兵團 |
+  | 46 | ![炎魔](/images/u/ti_yanmo.jpg) | [炎魔](/cn/Items/unt_234/){: .btn .btn--era6} | Unit Soul | 收集80個靈魂碎片，可以召喚炎魔，同時也是炎魔升星進化的必備材料 |
   | 47 | ![烈火精靈](/images/u/ti_liehuojingling.jpg) | [烈火精靈](/cn/Items/unt_231/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚烈火精靈，烈火精靈是 SR 資質兵團 |
   | 48 | ![牛頭怪](/images/u/ti_niutouguai.jpg) | [牛頭怪](/cn/Items/unt_248/){: .btn .btn--era4} | Unit Soul | 收集 30 個靈魂碎片，可以召喚牛頭怪，同時也是牛頭怪升星進化的必備材料 |
   | 49 | ![狂戰士](/images/u/ti_kuangzhanshi.jpg) | [狂戰士](/cn/Items/unt_224/){: .btn .btn--era5} | Unit Soul | 收集 80 個靈魂碎片，可以召喚狂戰士，狂戰士是 SSR 資質兵團 |

@@ -2,7 +2,7 @@
 title: "Item - Materials - 永恆水晶"
 permalink: /mat_73/
 excerpt: "魔法门之英雄无敌：战争纪元  永恆水晶"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "mat_73.md"
 toc: false
@@ -23,8 +23,7 @@ classes: wide
 
 *    聯盟探索 
 *    [劇情副本 21: 尋找神器 -> 21-6](/cn/Main Story/Chapter 21_6/) 
-*    [劇情副本 21: 尋找神器 -> 21-12](/cn/Main Story/Chapter 21_12/) 
-*    [劇情副本 21: 尋找神器 -> 21-15](/cn/Main Story/Chapter 21_15/) 
+*    聯盟探索 
 
 ## This item contains:
 

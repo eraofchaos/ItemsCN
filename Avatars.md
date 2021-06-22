@@ -2,7 +2,7 @@
 title: "Item - Avatars"
 permalink: /Avatars/
 excerpt: "Avatars in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Avatars.md"
 toc: false
@@ -57,47 +57,48 @@ classes: wide
   | 43 | ![戰術教官禮包](/images/t/i_907003.png) | [戰術教官禮包](/cn/Items/con_621/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得戰術教官頭像框，已解鎖該頭像框時會獲得 30 鑽石 |
   | 44 | ![據點禮包](/images/t/i_907003.png) | [據點禮包](/cn/Items/con_605/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得據點陣營頭像框，已解鎖該頭像框時會獲得 30 鑽石 |
   | 45 | ![斯芬克斯之謎頭像框禮包](/images/t/i_907003.png) | [斯芬克斯之謎頭像框禮包](/cn/Items/con_626/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得斯芬克斯之謎頭像框，已解鎖該頭像框時會獲得 30 鑽石 |
-  | 46 | ![格魯頭像](/images/h/h_Gelu1.jpg) | [格魯頭像](/cn/Items/con_562/){: .btn .btn--era5} | Hero Avatar | 使用後獲得英雄格魯頭像 |
-  | 47 | ![森林之子頭像](/images/h/h_Ryland3.jpg) | [森林之子頭像](/cn/Items/con_567/){: .btn .btn--era5} | Hero Avatar | 使用後獲得森林之子－羅伊德塗裝頭像 |
-  | 48 | ![死亡統領禮包](/images/t/i_907003.png) | [死亡統領禮包](/cn/Items/con_622/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得死亡統領頭像框，已解鎖該頭像框時會獲得 30 鑽石 |
-  | 49 | ![法術大師禮包](/images/t/i_907003.png) | [法術大師禮包](/cn/Items/con_611/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得法術大師頭像框，已解鎖該頭像框時會獲得 30 鑽石 |
-  | 50 | ![浴火而生頭像](/images/h/h_Luna3.jpg) | [浴火而生頭像](/cn/Items/con_576/){: .btn .btn--era5} | Hero Avatar | 使用後獲得浴火而生－露娜塗裝頭像 |
-  | 51 | ![海後頭像](/images/u/ti_haihouyuanhuatouxiang.jpg) | [海後頭像](/cn/Items/con_2117/){: .btn .btn--era5} | Hero Avatar | 使用後獲得海後頭像 |
-  | 52 | ![深淵巨噬 原畫頭像](/images/u/ti_haiguai1.jpg) | [深淵巨噬 原畫頭像](/cn/Items/con_1103/){: .btn .btn--era5} | Hero Avatar | 使用後獲得深淵巨噬原畫特效頭像 |
-  | 53 | ![潮汐元素 原畫頭像](/images/u/ti_hailing1.jpg) | [潮汐元素 原畫頭像](/cn/Items/con_1099/){: .btn .btn--era5} | Hero Avatar | 使用後獲得潮汐元素原畫特效頭像 |
-  | 54 | ![火焰主宰頭像框禮包](/images/a/avatarFrame_39.png) | [火焰主宰頭像框禮包](/cn/Items/con_635/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得火焰主宰頭像框，已解鎖該頭像框時會獲得 30 鑽石。 |
-  | 55 | ![灰燼暴君頭像](/images/h/h_Rashka3.jpg) | [灰燼暴君頭像](/cn/Items/con_568/){: .btn .btn--era5} | Hero Avatar | 使用後獲得灰燼暴君－瑞斯卡塗裝頭像 |
-  | 56 |  | [炎魔頭像](/cn/Items/con_2152/){: .btn .btn--era5} | Hero Avatar | 使用後獲得炎魔頭像 |
-  | 57 | ![獅躍—珍妮頭像](/images/h/h_Gem5.jpg) | [獅躍—珍妮頭像](/cn/Items/con_874/){: .btn .btn--era5} | Hero Avatar |  |
-  | 58 | ![獅鷲之心禮包](/images/t/i_907003.png) | [獅鷲之心禮包](/cn/Items/con_607/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得獅鷲之心頭像框，已解鎖該頭像框時會獲得 30 鑽石 |
-  | 59 | ![珍妮頭像](/images/h/h_Gem1.jpg) | [珍妮頭像](/cn/Items/con_580/){: .btn .btn--era5} | Hero Avatar | 使用後獲得英雄珍妮塗裝頭像 |
-  | 60 | ![瑞斯卡頭像](/images/h/h_Rashka1.jpg) | [瑞斯卡頭像](/cn/Items/con_572/){: .btn .btn--era5} | Hero Avatar | 使用後獲得英雄瑞斯卡頭像 |
-  | 61 | ![皈聖信徒－審判官頭像](/images/u/ti_shenpanguanpifu.jpg) | [皈聖信徒－審判官頭像](/cn/Items/con_584/){: .btn .btn--era5} | Hero Avatar | 使用後獲得皈聖信徒－審判官塗裝頭像 |
-  | 62 | ![神聖聯盟 凱薩琳頭像](/images/h/h_Catherine9.jpg) | [神聖聯盟 凱薩琳頭像](/cn/Items/con_847/){: .btn .btn--era5} | Hero Avatar |  |
-  | 63 | ![神聖聯盟 格魯](/images/h/h_Gelu8.jpg) | [神聖聯盟 格魯](/cn/Items/con_872/){: .btn .btn--era5} | Hero Avatar |  |
-  | 64 | ![競技者禮包](/images/t/i_907003.png) | [競技者禮包](/cn/Items/con_602/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得競技者頭像框，已解鎖該頭像框時會獲得 30 鑽石 |
-  | 65 | ![糖果女巫頭像](/images/h/h_Vidomina5.jpg) | [糖果女巫頭像](/cn/Items/con_583/){: .btn .btn--era5} | Hero Avatar | 使用後獲得糖果女巫－維德尼娜塗裝頭像 |
-  | 66 | ![約克頭像](/images/h/h_Yog1.jpg) | [約克頭像](/cn/Items/con_574/){: .btn .btn--era5} | Hero Avatar | 使用後獲得英雄約克頭像 |
-  | 67 | ![索爾巨人頭像](/images/u/ti_suoerjurenyuanhuatouxiang.jpg) | [索爾巨人頭像](/cn/Items/con_598/){: .btn .btn--era5} | Hero Avatar | 使用後獲得索爾巨人頭像 |
-  | 68 | ![維斯特頭像](/images/h/h_Wystan1.jpg) | [維斯特頭像](/cn/Items/con_582/){: .btn .btn--era5} | Hero Avatar | 使用後獲得英雄維斯特塗裝頭像 |
-  | 69 | ![聖誕精靈](/images/h/h_MutareDrake5.jpg) | [聖誕精靈](/cn/Items/con_591/){: .btn .btn--era5} | Hero Avatar | 與雪花嬉戲的聖誕精靈 |
-  | 70 | ![船長頭像](/images/h/h_Catherine6.jpg) | [船長頭像](/cn/Items/con_566/){: .btn .btn--era5} | Hero Avatar | 使用後獲得船長－凱瑟琳塗裝頭像 |
-  | 71 | ![艾德雷德頭像](/images/h/h_Adelaide1.jpg) | [艾德雷德頭像](/cn/Items/con_581/){: .btn .btn--era5} | Hero Avatar | 使用後獲得英雄艾德雷德塗裝頭像 |
-  | 72 | ![英雄希娃頭像](/images/h/h_Shiwa.jpg) | [英雄希娃頭像](/cn/Items/con_1007/){: .btn .btn--era5} | Hero Avatar | 使用後獲得英雄希娃的頭像 |
-  | 73 | ![薩費羅斯頭像](/images/h/h_Sephinroth1.jpg) | [薩費羅斯頭像](/cn/Items/con_578/){: .btn .btn--era5} | Hero Avatar | 使用後獲得英雄薩費羅斯塗裝頭像 |
-  | 74 | ![薩麗爾頭像](/images/h/h_Ciele1.jpg) | [薩麗爾頭像](/cn/Items/con_585/){: .btn .btn--era5} | Hero Avatar | 使用後獲得英雄薩麗爾頭像 |
-  | 75 | ![虛空主宰頭像框禮包](/images/a/avatarFrame_42.png) | [虛空主宰頭像框禮包](/cn/Items/con_638/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得虛空主宰頭像框，已解鎖該頭像框時會獲得 30 鑽石。 |
-  | 76 | ![蠻荒之怒頭像框禮包](/images/t/i_907003.png) | [蠻荒之怒頭像框禮包](/cn/Items/con_630/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得蠻荒之怒頭像框，已解鎖該頭像框時會獲得 30 鑽石 |
-  | 77 | ![評論高手禮包](/images/t/i_907003.png) | [評論高手禮包](/cn/Items/con_615/){: .btn .btn--era5} | Avatar frame | 評論高手活動獎勵，開啟後獲得頭像框，已解鎖該頭像框時會獲得 30 鑽石。 |
-  | 78 | ![邀請高手頭像框禮包](/images/t/i_907003.png) | [邀請高手頭像框禮包](/cn/Items/con_631/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得邀請高手頭像框，已解鎖該頭像框時會獲得 30 鑽石。 |
-  | 79 | ![邪魔女頭像](/images/u/ti_xiemonvyuanhuatouxiang.jpg) | [邪魔女頭像](/cn/Items/con_599/){: .btn .btn--era5} | Hero Avatar | 使用後獲得邪魔女頭像 |
-  | 80 | ![露娜頭像](/images/h/h_Luna1.jpg) | [露娜頭像](/cn/Items/con_575/){: .btn .btn--era5} | Hero Avatar | 使用後獲得英雄露娜頭像 |
-  | 81 | ![靈氣源湧—螳螂頭像](/images/u/ti_tanglangpifu.jpg) | [靈氣源湧—螳螂頭像](/cn/Items/con_593/){: .btn .btn--era5} | Hero Avatar |  |
-  | 82 | ![高階競技者禮包](/images/t/i_907003.png) | [高階競技者禮包](/cn/Items/con_603/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得高階競技者頭像框，已解鎖該頭像框時會獲得 30 鑽石 |
-  | 83 | ![魔法大師頭像框禮包](/images/a/avatarFrame_37.png) | [魔法大師頭像框禮包](/cn/Items/con_633/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得魔法大師頭像框，已解鎖該頭像框時會獲得 30 鑽石。 |
-  | 84 | ![鳳凰之神禮包](/images/t/i_907003.png) | [鳳凰之神禮包](/cn/Items/con_618/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得鳳凰之神頭像框，已解鎖該頭像框時會獲得 30 鑽石 |
-  | 85 | ![黃金公爵頭像](/images/h/h_CragHack5.jpg) | [黃金公爵頭像](/cn/Items/con_571/){: .btn .btn--era5} | Hero Avatar | 使用後獲得黃金公爵－肯洛．哈格塗裝頭像 |
-  | 86 | ![黃金武裝 PhuThieu](/images/u/ti_datianshidiancangkapifu2.jpg) | [黃金武裝 PhuThieu](/cn/Items/con_972/){: .btn .btn--era5} | Hero Avatar |  |
-  | 87 | ![黑帆大副 原畫頭像](/images/u/ti_haidao1.jpg) | [黑帆大副 原畫頭像](/cn/Items/con_1101/){: .btn .btn--era5} | Hero Avatar | 使用後獲得黑帆大副原畫特效頭像 |
-  | 88 | ![龍騰—卡珊貝爾頭像](/images/h/h_Cassanbel3.jpg) | [龍騰—卡珊貝爾頭像](/cn/Items/con_870/){: .btn .btn--era5} | Hero Avatar |  |
-  | 89 | ![龍騰獅躍頭像](/images/h/h_Gem4.jpg) | [龍騰獅躍頭像](/cn/Items/con_873/){: .btn .btn--era5} | Hero Avatar |  |
+  | 46 |  | [暗黑領主頭像](/cn/Items/con_2188/){: .btn .btn--era5} | Hero Avatar | 使用後獲得暗黑領主頭像 |
+  | 47 | ![格魯頭像](/images/h/h_Gelu1.jpg) | [格魯頭像](/cn/Items/con_562/){: .btn .btn--era5} | Hero Avatar | 使用後獲得英雄格魯頭像 |
+  | 48 | ![森林之子頭像](/images/h/h_Ryland3.jpg) | [森林之子頭像](/cn/Items/con_567/){: .btn .btn--era5} | Hero Avatar | 使用後獲得森林之子－羅伊德塗裝頭像 |
+  | 49 | ![死亡統領禮包](/images/t/i_907003.png) | [死亡統領禮包](/cn/Items/con_622/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得死亡統領頭像框，已解鎖該頭像框時會獲得 30 鑽石 |
+  | 50 | ![法術大師禮包](/images/t/i_907003.png) | [法術大師禮包](/cn/Items/con_611/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得法術大師頭像框，已解鎖該頭像框時會獲得 30 鑽石 |
+  | 51 | ![浴火而生頭像](/images/h/h_Luna3.jpg) | [浴火而生頭像](/cn/Items/con_576/){: .btn .btn--era5} | Hero Avatar | 使用後獲得浴火而生－露娜塗裝頭像 |
+  | 52 | ![海後頭像](/images/u/ti_haihouyuanhuatouxiang.jpg) | [海後頭像](/cn/Items/con_2117/){: .btn .btn--era5} | Hero Avatar | 使用後獲得海後頭像 |
+  | 53 | ![深淵巨噬 原畫頭像](/images/u/ti_haiguai1.jpg) | [深淵巨噬 原畫頭像](/cn/Items/con_1103/){: .btn .btn--era5} | Hero Avatar | 使用後獲得深淵巨噬原畫特效頭像 |
+  | 54 | ![潮汐元素 原畫頭像](/images/u/ti_hailing1.jpg) | [潮汐元素 原畫頭像](/cn/Items/con_1099/){: .btn .btn--era5} | Hero Avatar | 使用後獲得潮汐元素原畫特效頭像 |
+  | 55 | ![火焰主宰頭像框禮包](/images/a/avatarFrame_39.png) | [火焰主宰頭像框禮包](/cn/Items/con_635/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得火焰主宰頭像框，已解鎖該頭像框時會獲得 30 鑽石。 |
+  | 56 | ![灰燼暴君頭像](/images/h/h_Rashka3.jpg) | [灰燼暴君頭像](/cn/Items/con_568/){: .btn .btn--era5} | Hero Avatar | 使用後獲得灰燼暴君－瑞斯卡塗裝頭像 |
+  | 57 |  | [炎魔頭像](/cn/Items/con_2152/){: .btn .btn--era5} | Hero Avatar | 使用後獲得炎魔頭像 |
+  | 58 | ![獅躍—珍妮頭像](/images/h/h_Gem5.jpg) | [獅躍—珍妮頭像](/cn/Items/con_874/){: .btn .btn--era5} | Hero Avatar |  |
+  | 59 | ![獅鷲之心禮包](/images/t/i_907003.png) | [獅鷲之心禮包](/cn/Items/con_607/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得獅鷲之心頭像框，已解鎖該頭像框時會獲得 30 鑽石 |
+  | 60 | ![珍妮頭像](/images/h/h_Gem1.jpg) | [珍妮頭像](/cn/Items/con_580/){: .btn .btn--era5} | Hero Avatar | 使用後獲得英雄珍妮塗裝頭像 |
+  | 61 | ![瑞斯卡頭像](/images/h/h_Rashka1.jpg) | [瑞斯卡頭像](/cn/Items/con_572/){: .btn .btn--era5} | Hero Avatar | 使用後獲得英雄瑞斯卡頭像 |
+  | 62 | ![皈聖信徒－審判官頭像](/images/u/ti_shenpanguanpifu.jpg) | [皈聖信徒－審判官頭像](/cn/Items/con_584/){: .btn .btn--era5} | Hero Avatar | 使用後獲得皈聖信徒－審判官塗裝頭像 |
+  | 63 | ![神聖聯盟 凱薩琳頭像](/images/h/h_Catherine9.jpg) | [神聖聯盟 凱薩琳頭像](/cn/Items/con_847/){: .btn .btn--era5} | Hero Avatar |  |
+  | 64 | ![神聖聯盟 格魯](/images/h/h_Gelu8.jpg) | [神聖聯盟 格魯](/cn/Items/con_872/){: .btn .btn--era5} | Hero Avatar |  |
+  | 65 | ![競技者禮包](/images/t/i_907003.png) | [競技者禮包](/cn/Items/con_602/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得競技者頭像框，已解鎖該頭像框時會獲得 30 鑽石 |
+  | 66 | ![糖果女巫頭像](/images/h/h_Vidomina5.jpg) | [糖果女巫頭像](/cn/Items/con_583/){: .btn .btn--era5} | Hero Avatar | 使用後獲得糖果女巫－維德尼娜塗裝頭像 |
+  | 67 | ![約克頭像](/images/h/h_Yog1.jpg) | [約克頭像](/cn/Items/con_574/){: .btn .btn--era5} | Hero Avatar | 使用後獲得英雄約克頭像 |
+  | 68 | ![索爾巨人頭像](/images/u/ti_suoerjurenyuanhuatouxiang.jpg) | [索爾巨人頭像](/cn/Items/con_598/){: .btn .btn--era5} | Hero Avatar | 使用後獲得索爾巨人頭像 |
+  | 69 | ![維斯特頭像](/images/h/h_Wystan1.jpg) | [維斯特頭像](/cn/Items/con_582/){: .btn .btn--era5} | Hero Avatar | 使用後獲得英雄維斯特塗裝頭像 |
+  | 70 | ![聖誕精靈](/images/h/h_MutareDrake5.jpg) | [聖誕精靈](/cn/Items/con_591/){: .btn .btn--era5} | Hero Avatar | 與雪花嬉戲的聖誕精靈 |
+  | 71 | ![船長頭像](/images/h/h_Catherine6.jpg) | [船長頭像](/cn/Items/con_566/){: .btn .btn--era5} | Hero Avatar | 使用後獲得船長－凱瑟琳塗裝頭像 |
+  | 72 | ![艾德雷德頭像](/images/h/h_Adelaide1.jpg) | [艾德雷德頭像](/cn/Items/con_581/){: .btn .btn--era5} | Hero Avatar | 使用後獲得英雄艾德雷德塗裝頭像 |
+  | 73 | ![英雄希娃頭像](/images/h/h_Shiwa.jpg) | [英雄希娃頭像](/cn/Items/con_1007/){: .btn .btn--era5} | Hero Avatar | 使用後獲得英雄希娃的頭像 |
+  | 74 | ![薩費羅斯頭像](/images/h/h_Sephinroth1.jpg) | [薩費羅斯頭像](/cn/Items/con_578/){: .btn .btn--era5} | Hero Avatar | 使用後獲得英雄薩費羅斯塗裝頭像 |
+  | 75 | ![薩麗爾頭像](/images/h/h_Ciele1.jpg) | [薩麗爾頭像](/cn/Items/con_585/){: .btn .btn--era5} | Hero Avatar | 使用後獲得英雄薩麗爾頭像 |
+  | 76 | ![虛空主宰頭像框禮包](/images/a/avatarFrame_42.png) | [虛空主宰頭像框禮包](/cn/Items/con_638/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得虛空主宰頭像框，已解鎖該頭像框時會獲得 30 鑽石。 |
+  | 77 | ![蠻荒之怒頭像框禮包](/images/t/i_907003.png) | [蠻荒之怒頭像框禮包](/cn/Items/con_630/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得蠻荒之怒頭像框，已解鎖該頭像框時會獲得 30 鑽石 |
+  | 78 | ![評論高手禮包](/images/t/i_907003.png) | [評論高手禮包](/cn/Items/con_615/){: .btn .btn--era5} | Avatar frame | 評論高手活動獎勵，開啟後獲得頭像框，已解鎖該頭像框時會獲得 30 鑽石。 |
+  | 79 | ![邀請高手頭像框禮包](/images/t/i_907003.png) | [邀請高手頭像框禮包](/cn/Items/con_631/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得邀請高手頭像框，已解鎖該頭像框時會獲得 30 鑽石。 |
+  | 80 | ![邪魔女頭像](/images/u/ti_xiemonvyuanhuatouxiang.jpg) | [邪魔女頭像](/cn/Items/con_599/){: .btn .btn--era5} | Hero Avatar | 使用後獲得邪魔女頭像 |
+  | 81 | ![露娜頭像](/images/h/h_Luna1.jpg) | [露娜頭像](/cn/Items/con_575/){: .btn .btn--era5} | Hero Avatar | 使用後獲得英雄露娜頭像 |
+  | 82 | ![靈氣源湧—螳螂頭像](/images/u/ti_tanglangpifu.jpg) | [靈氣源湧—螳螂頭像](/cn/Items/con_593/){: .btn .btn--era5} | Hero Avatar |  |
+  | 83 | ![高階競技者禮包](/images/t/i_907003.png) | [高階競技者禮包](/cn/Items/con_603/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得高階競技者頭像框，已解鎖該頭像框時會獲得 30 鑽石 |
+  | 84 | ![魔法大師頭像框禮包](/images/a/avatarFrame_37.png) | [魔法大師頭像框禮包](/cn/Items/con_633/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得魔法大師頭像框，已解鎖該頭像框時會獲得 30 鑽石。 |
+  | 85 | ![鳳凰之神禮包](/images/t/i_907003.png) | [鳳凰之神禮包](/cn/Items/con_618/){: .btn .btn--era5} | Avatar frame | 開啟後可獲得鳳凰之神頭像框，已解鎖該頭像框時會獲得 30 鑽石 |
+  | 86 | ![黃金公爵頭像](/images/h/h_CragHack5.jpg) | [黃金公爵頭像](/cn/Items/con_571/){: .btn .btn--era5} | Hero Avatar | 使用後獲得黃金公爵－肯洛．哈格塗裝頭像 |
+  | 87 | ![黃金武裝 PhuThieu](/images/u/ti_datianshidiancangkapifu2.jpg) | [黃金武裝 PhuThieu](/cn/Items/con_972/){: .btn .btn--era5} | Hero Avatar |  |
+  | 88 | ![黑帆大副 原畫頭像](/images/u/ti_haidao1.jpg) | [黑帆大副 原畫頭像](/cn/Items/con_1101/){: .btn .btn--era5} | Hero Avatar | 使用後獲得黑帆大副原畫特效頭像 |
+  | 89 | ![龍騰—卡珊貝爾頭像](/images/h/h_Cassanbel3.jpg) | [龍騰—卡珊貝爾頭像](/cn/Items/con_870/){: .btn .btn--era5} | Hero Avatar |  |
+  | 90 | ![龍騰獅躍頭像](/images/h/h_Gem4.jpg) | [龍騰獅躍頭像](/cn/Items/con_873/){: .btn .btn--era5} | Hero Avatar |  |

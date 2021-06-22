@@ -2,7 +2,7 @@
 title: "Item - Unit Awakening"
 permalink: /UnitAwakening/
 excerpt: "Unit Awakening in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: cn
 ref: "Unit Awakening.md"
 toc: false
@@ -18,13 +18,13 @@ classes: wide
   | 4 | ![Tool_94708](/images/u/tia_honglong.jpg) | [Tool_94708](/cn/Items/unt_335/){: .btn .btn--era5} | Awakening Soul |  |
   | 5 | ![Tool_94804](/images/u/tia_xiyi.jpg) | [Tool_94804](/cn/Items/unt_338/){: .btn .btn--era5} | Awakening Soul |  |
   | 6 | ![Tool_949901](/images/u/tia_haidao.jpg) | [Tool_949901](/cn/Items/unt_350/){: .btn .btn--era5} | Awakening Soul |  |
-  | 7 | ![Tool_949902](/images/u/tia_baozang.jpg) | [Tool_949902](/cn/Items/unt_351/){: .btn .btn--era5} | Awakening Soul |  |
-  | 8 | ![Tool_949905](/images/u/tia_meirenyu.jpg) | [Tool_949905](/cn/Items/unt_353/){: .btn .btn--era5} | Awakening Soul |  |
-  | 9 | ![Tool_949906](/images/u/tia_longgui.jpg) | [Tool_949906](/cn/Items/unt_354/){: .btn .btn--era5} | Awakening Soul |  |
-  | 10 | ![Tool_949909](/images/u/tia_xunshashi.jpg) | [Tool_949909](/cn/Items/unt_356/){: .btn .btn--era5} | Awakening Soul |  |
-  | 11 | ![上古巨獸魂石](/images/u/tia_bimeng.jpg) | [上古巨獸魂石](/cn/Items/unt_311/){: .btn .btn--era5} | Awakening Soul | 用於強化上古巨獸覺醒等級的魂石 |
-  | 12 | ![不朽法老魂石](/images/u/tia_munaiyi.jpg) | [不朽法老魂石](/cn/Items/unt_304/){: .btn .btn--era5} | Awakening Soul | 用於強化不朽法老覺醒等級的魂石 |
-  | 13 | ![不滅之焰魂石](/images/u/tia_liehuoyuansu.jpg) | [不滅之焰魂石](/cn/Items/unt_346/){: .btn .btn--era5} | Awakening Soul | 用於強化不滅之焰覺醒等級的魂石 |
+  | 7 | ![Tool_949905](/images/u/tia_meirenyu.jpg) | [Tool_949905](/cn/Items/unt_353/){: .btn .btn--era5} | Awakening Soul |  |
+  | 8 | ![Tool_949906](/images/u/tia_longgui.jpg) | [Tool_949906](/cn/Items/unt_354/){: .btn .btn--era5} | Awakening Soul |  |
+  | 9 | ![Tool_949909](/images/u/tia_xunshashi.jpg) | [Tool_949909](/cn/Items/unt_356/){: .btn .btn--era5} | Awakening Soul |  |
+  | 10 | ![上古巨獸魂石](/images/u/tia_bimeng.jpg) | [上古巨獸魂石](/cn/Items/unt_311/){: .btn .btn--era5} | Awakening Soul | 用於強化上古巨獸覺醒等級的魂石 |
+  | 11 | ![不朽法老魂石](/images/u/tia_munaiyi.jpg) | [不朽法老魂石](/cn/Items/unt_304/){: .btn .btn--era5} | Awakening Soul | 用於強化不朽法老覺醒等級的魂石 |
+  | 12 | ![不滅之焰魂石](/images/u/tia_liehuoyuansu.jpg) | [不滅之焰魂石](/cn/Items/unt_346/){: .btn .btn--era5} | Awakening Soul | 用於強化不滅之焰覺醒等級的魂石 |
+  | 13 | ![亡瞳獵手魂石](/images/u/tia_baozang.jpg) | [亡瞳獵手魂石](/cn/Items/unt_351/){: .btn .btn--era5} | Awakening Soul | 用於強化亡瞳獵手覺醒等級的魂石 |
   | 14 | ![冠軍騎士魂石](/images/u/tia_qishi.jpg) | [冠軍騎士魂石](/cn/Items/unt_287/){: .btn .btn--era5} | Awakening Soul | 用於強化冠軍騎士覺醒等級的魂石 |
   | 15 | ![半人馬酋長魂石](/images/u/tia_banrenma.jpg) | [半人馬酋長魂石](/cn/Items/unt_290/){: .btn .btn--era5} | Awakening Soul | 用於強化半人馬酋長覺醒等級的魂石 |
   | 16 | ![半獸人統領魂石](/images/u/tia_banshouren.jpg) | [半獸人統領魂石](/cn/Items/unt_307/){: .btn .btn--era5} | Awakening Soul | 用於強化半獸人統領覺醒等級的魂石 |
