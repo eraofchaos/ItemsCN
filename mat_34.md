@@ -2,7 +2,7 @@
 title: "Item - Materials - 非凡木材"
 permalink: /mat_34/
 excerpt: "魔法门之英雄无敌：战争纪元  非凡木材"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "mat_34.md"
 toc: false

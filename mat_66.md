@@ -2,7 +2,7 @@
 title: "Item - Materials - 神話水晶"
 permalink: /mat_66/
 excerpt: "魔法门之英雄无敌：战争纪元  神話水晶"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "mat_66.md"
 toc: false

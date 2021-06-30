@@ -2,7 +2,7 @@
 title: "Item - Materials - 傳說木材"
 permalink: /mat_55/
 excerpt: "魔法门之英雄无敌：战争纪元  傳說木材"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "mat_55.md"
 toc: false

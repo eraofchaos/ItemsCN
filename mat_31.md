@@ -2,7 +2,7 @@
 title: "Item - Materials - 珍貴水晶"
 permalink: /mat_31/
 excerpt: "魔法门之英雄无敌：战争纪元  珍貴水晶"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: cn
 ref: "mat_31.md"
 toc: false
