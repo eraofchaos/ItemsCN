@@ -2,7 +2,7 @@
 title: "Item - Materials - 永恆水晶"
 permalink: /mat_73/
 excerpt: "魔法门之英雄无敌：战争纪元  永恆水晶"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "mat_73.md"
 toc: false

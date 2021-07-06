@@ -2,7 +2,7 @@
 title: "Item - Materials - 非凡水晶"
 permalink: /mat_38/
 excerpt: "魔法门之英雄无敌：战争纪元  非凡水晶"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "mat_38.md"
 toc: false

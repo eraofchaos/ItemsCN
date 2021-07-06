@@ -2,7 +2,7 @@
 title: "Item - Materials - 神話寶石"
 permalink: /mat_65/
 excerpt: "魔法门之英雄无敌：战争纪元  神話寶石"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: cn
 ref: "mat_65.md"
 toc: false
