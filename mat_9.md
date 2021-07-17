@@ -2,7 +2,7 @@
 title: "Item - Materials - 平凡硫磺"
 permalink: /mat_9/
 excerpt: "魔法门之英雄无敌：战争纪元  平凡硫磺"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: cn
 ref: "mat_9.md"
 toc: false

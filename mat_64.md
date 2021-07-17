@@ -2,7 +2,7 @@
 title: "Item - Materials - 神話硫磺"
 permalink: /mat_64/
 excerpt: "魔法门之英雄无敌：战争纪元  神話硫磺"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: cn
 ref: "mat_64.md"
 toc: false

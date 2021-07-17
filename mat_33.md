@@ -2,7 +2,7 @@
 title: "Item - Materials - 非凡礦石"
 permalink: /mat_33/
 excerpt: "魔法门之英雄无敌：战争纪元  非凡礦石"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: cn
 ref: "mat_33.md"
 toc: false

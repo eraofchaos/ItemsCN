@@ -2,7 +2,7 @@
 title: "Item - Materials - 優質木材"
 permalink: /mat_13/
 excerpt: "魔法门之英雄无敌：战争纪元  優質木材"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: cn
 ref: "mat_13.md"
 toc: false

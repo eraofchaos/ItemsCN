@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: cn
 ref: "Consumables.md"
 toc: false
@@ -316,7 +316,7 @@ classes: wide
   | 302 | ![血晶魔龍 紅龍塗裝](/images/u/ti_honglongdiancang.jpg) | [血晶魔龍 紅龍塗裝](/cn/Items/con_1996/){: .btn .btn--era5} | Unit Skin | 打開後獲得血晶魔龍 紅龍塗裝 |
   | 303 | ![行動力](/images/t/i_111.png) | [行動力](/cn/Items/con_894/){: .btn .btn--era4} | VIP related | 探索更遠的地方！ |
   | 304 |  | [袖箭特效塗裝](/cn/Items/con_2199/){: .btn .btn--era5} | Special Skin | 袖箭喚醒後可解鎖該塗裝 |
-  | 305 |  | [袖箭碎片](/cn/Items/con_2200/){: .btn .btn--era5} | Exclusive piece | 上古戰役中遺留下來的袖箭碎片，可用於喚醒刺殺者專屬武器袖箭的潛力 |
+  | 305 |  | [袖箭碎片](/cn/Items/con_2200/){: .btn .btn--era5} | Exclusive piece | 上古戰役中遺留下來的袖箭碎片，可用於喚醒刺客專屬武器袖箭的潛力 |
   | 306 | ![記憶結晶](/images/t/i_40033.png) | [記憶結晶](/cn/Items/con_941/){: .btn .btn--era5} | VIP related | 記憶結晶，可在記憶商店購買道具，可通過記憶提取獲得 |
   | 307 | ![諸神眷顧（14天）](/images/a/avatarFrame_62.png) | [諸神眷顧（14天）](/cn/Items/con_1020/){: .btn .btn--era5} | Experience Card | 跨服諸神亞軍可獲得 |
   | 308 | ![豐收之夜－羅蘭德](/images/h/h_Roland5.jpg) | [豐收之夜－羅蘭德](/cn/Items/con_1034/){: .btn .btn--era5} | Special Skin | 使用後獲得塗裝：豐收之夜－羅蘭德 |
