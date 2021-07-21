@@ -2,7 +2,7 @@
 title: "Item - Materials - 永恆木材"
 permalink: /mat_69/
 excerpt: "魔法门之英雄无敌：战争纪元  永恆木材"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "mat_69.md"
 toc: false

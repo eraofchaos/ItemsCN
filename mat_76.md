@@ -2,7 +2,7 @@
 title: "Item - Materials - 奧祕木材"
 permalink: /mat_76/
 excerpt: "魔法门之英雄无敌：战争纪元  奧祕木材"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "mat_76.md"
 toc: false

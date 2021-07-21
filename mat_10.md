@@ -2,7 +2,7 @@
 title: "Item - Materials - 平凡寶石"
 permalink: /mat_10/
 excerpt: "魔法门之英雄无敌：战争纪元  平凡寶石"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "mat_10.md"
 toc: false

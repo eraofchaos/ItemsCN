@@ -2,7 +2,7 @@
 title: "Item - Materials - 傳說水銀"
 permalink: /mat_56/
 excerpt: "魔法门之英雄无敌：战争纪元  傳說水銀"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: cn
 ref: "mat_56.md"
 toc: false
