@@ -2,7 +2,7 @@
 title: "Item - Materials - 靈魂木材"
 permalink: /mat_83/
 excerpt: "魔法门之英雄无敌：战争纪元  靈魂木材"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "mat_83.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - 奧祕寶石"
 permalink: /mat_79/
 excerpt: "魔法门之英雄无敌：战争纪元  奧祕寶石"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "mat_79.md"
 toc: false

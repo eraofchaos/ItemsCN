@@ -2,7 +2,7 @@
 title: "Item - Materials - 靈魂水銀"
 permalink: /mat_84/
 excerpt: "魔法门之英雄无敌：战争纪元  靈魂水銀"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "mat_84.md"
 toc: false

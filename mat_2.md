@@ -2,7 +2,7 @@
 title: "Item - Materials - 劣質水銀"
 permalink: /mat_2/
 excerpt: "魔法门之英雄无敌：战争纪元  劣質水銀"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "mat_2.md"
 toc: false

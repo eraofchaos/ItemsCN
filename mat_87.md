@@ -2,7 +2,7 @@
 title: "Item - Materials - 靈魂水晶"
 permalink: /mat_87/
 excerpt: "魔法门之英雄无敌：战争纪元  靈魂水晶"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "mat_87.md"
 toc: false

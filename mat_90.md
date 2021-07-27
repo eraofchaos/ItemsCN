@@ -2,7 +2,7 @@
 title: "Item - Materials - 星空木材"
 permalink: /mat_90/
 excerpt: "魔法门之英雄无敌：战争纪元  星空木材"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: cn
 ref: "mat_90.md"
 toc: false
