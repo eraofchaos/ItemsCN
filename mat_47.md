@@ -2,7 +2,7 @@
 title: "Item - Materials - 絕世礦石"
 permalink: /mat_47/
 excerpt: "魔法门之英雄无敌：战争纪元  絕世礦石"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "mat_47.md"
 toc: false

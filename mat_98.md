@@ -2,7 +2,7 @@
 title: "Item - Materials - 閃耀水銀"
 permalink: /mat_98/
 excerpt: "魔法门之英雄无敌：战争纪元  閃耀水銀"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "mat_98.md"
 toc: false

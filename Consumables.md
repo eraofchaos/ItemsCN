@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "Consumables.md"
 toc: false
@@ -350,7 +350,7 @@ classes: wide
   | 336 | ![靈魂石](/images/t/i_40011.png) | [靈魂石](/cn/Items/con_923/){: .btn .btn--era4} | Other | 靈魂石，可在聖徽商店購買道具，可通過分解聖徽獲得 |
   | 337 | ![靈魂結晶](/images/t/i_40012.png) | [靈魂結晶](/cn/Items/con_924/){: .btn .btn--era5} | Other | 靈魂結晶，可在幸運奪寶兌換商店中兌換聖徽，可通過幸運奪寶中獲得 |
   | 338 | ![青耀涅槃 鳳凰塗裝](/images/u/ti_fenghuangpifu.jpg) | [青耀涅槃 鳳凰塗裝](/cn/Items/con_2002/){: .btn .btn--era5} | Unit Skin | 打開後獲得青耀涅槃 鳳凰塗裝 |
-  | 339 |  | [青龍](/cn/Items/con_2236/){: .btn .btn--era5} | Unit Skin | 打開後獲得青龍 多頭龍塗裝 |
+  | 339 |  | [青龍](/cn/Items/con_2236/){: .btn .btn--era5} | Unit Skin | 打開後獲得青龍 多頭龍皮膚 |
   | 340 |  | [骰子](/cn/Items/con_946/){: .btn .btn--era4} | VIP related | 精美的骰子，可在奇跡之海活動中使用 |
   | 341 | ![骷髏精華寶箱](/images/t/i_906004.png) | [骷髏精華寶箱](/cn/Items/con_1327/){: .btn .btn--era4} | Unit Essence | 有 50% 機率開出一枚維德尼娜碎片！ |
   | 342 | ![體力](/images/t/i_104.png) | [體力](/cn/Items/con_900/){: .btn .btn--era4} | VIP related | 體力，挑戰劇情及地下城時會消耗體力 |

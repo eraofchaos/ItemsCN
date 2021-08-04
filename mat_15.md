@@ -2,7 +2,7 @@
 title: "Item - Materials - 優質硫磺"
 permalink: /mat_15/
 excerpt: "魔法门之英雄无敌：战争纪元  優質硫磺"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: cn
 ref: "mat_15.md"
 toc: false
